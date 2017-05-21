@@ -1,10 +1,6 @@
 [
     {
-        "merged": "D:\\2017Android Studio Project\\Beats-master1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
-        "source": "D:\\2017Android Studio Project\\Beats-master1\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
-    },
-    {
-        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
-        "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
+        "merged": "C:\\my\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi\\icon.png",
+        "source": "C:\\my\\RhythmGame\\app\\src\\main\\res\\drawable-hdpi\\icon.png"
     }
 ]

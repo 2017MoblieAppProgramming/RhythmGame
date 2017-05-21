@@ -2,22 +2,31 @@
 <items version="2" >
 
     <item
-        is-multidex="false"
-        jar="D:\2017Android Studio Project\Beats-master1\app\libs\UHL.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\my\RhythmGame\app\libs\UHL.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
         sha1="9f6e2207f6a895076409cb18b608e82ea2a3e99b">
-        <dex dex="D:\2017Android Studio Project\Beats-master1\app\build\intermediates\pre-dexed\debug\UHL_31e697b4a0bd047ba4fd58d6e7c7a00e17c0dbe8.jar" />
+        <dex dex="C:\my\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\2\UHL_fde6ccf2534a58c87baf92e3b97c311f62781061\classes.dex" />
     </item>
     <item
-        is-multidex="false"
-        jar="D:\2017Android Studio Project\RhythmGame\app\libs\UHL.jar"
-        jumboMode="false"
+        is-multidex="true"
+        jar="C:\my\RhythmGame\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="9f6e2207f6a895076409cb18b608e82ea2a3e99b">
-        <dex dex="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\pre-dexed\debug\UHL_bf2f588edf38dadfdee8f83ced4543391a64ac1f.jar" />
+        sha1="7290f586687a616b5c26adc1e8bf0c728fb97c81">
+        <dex dex="C:\my\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_fefdea08eec5af758339f1f3a1ef3db16a762f9d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\my\RhythmGame\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
+        <dex dex="C:\my\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_70d52c598aaf12e2173bf2e97fe6e4d5d6ed833e\classes.dex" />
     </item>
 
 </items>
