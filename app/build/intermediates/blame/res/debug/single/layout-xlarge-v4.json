@@ -1,10 +1,10 @@
 [
     {
-        "merged": "C:\\my\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\main.xml",
-        "source": "C:\\my\\RhythmGame\\app\\src\\main\\res\\layout-xlarge\\main.xml"
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\unzipper.xml",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\layout-xlarge\\unzipper.xml"
     },
     {
-        "merged": "C:\\my\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\unzipper.xml",
-        "source": "C:\\my\\RhythmGame\\app\\src\\main\\res\\layout-xlarge\\unzipper.xml"
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout-xlarge-v4\\main.xml",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\layout-xlarge\\main.xml"
     }
 ]

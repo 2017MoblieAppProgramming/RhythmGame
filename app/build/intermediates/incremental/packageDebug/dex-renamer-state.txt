@@ -1,7 +1,0 @@
-#Sun May 21 14:25:40 KST 2017
-base.0=C\:\\my\\RhythmGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_70d52c598aaf12e2173bf2e97fe6e4d5d6ed833e
-renamed.1=classes2.dex
-renamed.0=classes.dex
-file.1=C\:\\my\\RhythmGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fefdea08eec5af758339f1f3a1ef3db16a762f9d\\classes.dex
-base.1=C\:\\my\\RhythmGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run-bootstrap_fefdea08eec5af758339f1f3a1ef3db16a762f9d
-file.0=C\:\\my\\RhythmGame\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_70d52c598aaf12e2173bf2e97fe6e4d5d6ed833e\\classes.dex

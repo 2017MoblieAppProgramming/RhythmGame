@@ -1,18 +1,18 @@
 [
     {
-        "merged": "C:\\my\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "C:\\my\\RhythmGame\\app\\src\\main\\res\\layout\\main.xml"
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "C:\\my\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose.xml",
-        "source": "C:\\my\\RhythmGame\\app\\src\\main\\res\\layout\\choose.xml"
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notes.xml",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\layout\\notes.xml"
     },
     {
-        "merged": "C:\\my\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notes.xml",
-        "source": "C:\\my\\RhythmGame\\app\\src\\main\\res\\layout\\notes.xml"
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unzipper.xml",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\layout\\unzipper.xml"
     },
     {
-        "merged": "C:\\my\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unzipper.xml",
-        "source": "C:\\my\\RhythmGame\\app\\src\\main\\res\\layout\\unzipper.xml"
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose.xml",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\layout\\choose.xml"
     }
 ]
