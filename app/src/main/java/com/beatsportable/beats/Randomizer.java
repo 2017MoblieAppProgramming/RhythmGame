@@ -13,7 +13,7 @@ public class Randomizer {
 	
 	private Random rand;
 	private int randomize;
-	//pushtest
+
 	// SM
 	private boolean[] lastPitches;
 	
