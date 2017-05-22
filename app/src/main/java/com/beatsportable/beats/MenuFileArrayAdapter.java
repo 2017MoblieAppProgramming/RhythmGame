@@ -6,6 +6,8 @@ import android.content.Context;
 import android.view.*;
 import android.widget.*;
 
+import com.beatsportable.beats.tools.Tools;
+
 public class MenuFileArrayAdapter extends ArrayAdapter<MenuFileItem>{
 
 	private Context c;

@@ -17,7 +17,11 @@ import android.view.View.OnFocusChangeListener;
 import android.view.View.OnTouchListener;
 import android.widget.*;
 
-	
+import com.beatsportable.beats.tools.Tools;
+import com.beatsportable.beats.tools.ToolsTracker;
+import com.beatsportable.beats.tools.ToolsUpdateTask;
+
+
 public class MenuHome extends Activity {
 	
 	private static final int SELECT_MUSIC = 123;

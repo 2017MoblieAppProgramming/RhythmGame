@@ -15,6 +15,10 @@ import android.view.ContextMenu.ContextMenuInfo;
 import android.widget.AdapterView.AdapterContextMenuInfo;
 import android.widget.*;
 
+import com.beatsportable.beats.tools.Tools;
+import com.beatsportable.beats.tools.ToolsTracker;
+import com.beatsportable.beats.tools.ToolsUnzipper;
+
 public class MenuFileChooser extends ListActivity {
 	private MenuFileArrayAdapter adapter;
 	private File cwd;

@@ -2,6 +2,9 @@ package com.beatsportable.beats;
 
 import android.media.MediaPlayer;
 
+import com.beatsportable.beats.tools.Tools;
+import com.beatsportable.beats.tools.ToolsTracker;
+
 public class MusicService {
 	
 	private MediaPlayer p;
@@ -14,7 +17,7 @@ public class MusicService {
 		try {
 			if (musicFilePath != null && musicFilePath.length() < 2) {
 				throw new Exception(
-						Tools.getString(R.string.MusicService_invalid_path) + 
+						Tools.getString(R.string.MusicService_invalid_path) +
 						musicFilePath
 						);
 			}

@@ -6,6 +6,10 @@ import android.app.*;
 import android.content.*;
 import android.os.*;
 
+import com.beatsportable.beats.gui.GUIGame;
+import com.beatsportable.beats.tools.Tools;
+import com.beatsportable.beats.tools.ToolsTracker;
+
 public class MenuStartGame implements Runnable {
 	private Activity a;
 	private String title = "";

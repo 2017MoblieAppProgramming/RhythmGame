@@ -7,6 +7,8 @@ import android.database.Cursor;
 import android.database.sqlite.SQLiteDatabase;
 import android.database.sqlite.SQLiteOpenHelper;
 
+import com.beatsportable.beats.tools.Tools;
+
 public class Scoreboard extends SQLiteOpenHelper implements Runnable {
 	
 	private static final String KEY_MD5 = "md5";

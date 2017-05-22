@@ -52,6 +52,11 @@
 		<item>red</item>
 		<item>white</item>
 	</string-array>
+    <string-array name="com_kakao_accounts_array">
+        <item>@string/com_kakao_kakaotalk_account</item>
+        <item>@string/com_kakao_other_kakaoaccount</item>
+        <item>@string/com_kakao_account_cancel</item>
+    </string-array>
     <string-array name="difficultyLevel">
     <item>Beginner</item>
     <item>Easy</item>
@@ -460,6 +465,16 @@
 		<item>1</item>
 		<item>0</item>
 	</string-array>
+    <color name="bg_login_button">#fae100</color>
+    <color name="bg_login_button_highlighted">#a59000</color>
+    <color name="com_kakao_account_button_background">#ffffff</color>
+    <color name="com_kakao_brown">#472a2b</color>
+    <color name="com_kakao_button_background_press">#ffeb00</color>
+    <color name="com_kakao_button_text_press">#000000</color>
+    <color name="com_kakao_cancel_button_background">#e5e5e5</color>
+    <dimen name="com_kakao_padding">10dp</dimen>
+    <dimen name="com_kakao_profile_property_margin">10dp</dimen>
+    <dimen name="com_kakao_profile_property_text">15sp</dimen>
     <string name="Accuracy_almost">"Almost"</string>
     <string name="Accuracy_best_combo">"Best Combo"</string>
     <string name="Accuracy_good">"Good"</string>
@@ -697,6 +712,7 @@ This beta release is for use as is, no warrantees expressed or implied. We are n
     <string name="appPriorityDefault">"-16"</string>
     <string name="appPriorityDesc">"Increase to reduce lag, may cause instability issues"</string>
     <string name="appPriorityTitle">"Application Priority"</string>
+    <string name="app_name">S2</string>
     <string name="autoPlay">"autoPlay"</string>
     <string name="autoPlayDefault">"0"</string>
     <string name="autoPlayDesc">"Use auto-play for learning song patterns (or for the lolz!)"</string>
@@ -729,8 +745,31 @@ This beta release is for use as is, no warrantees expressed or implied. We are n
     <string name="betaNotesDefault">"1"</string>
     <string name="betaNotesDesc">"Display beta notes on next startup"</string>
     <string name="betaNotesTitle">"Beta Notes"</string>
+    <string name="button_for_ssl_go_back">Back</string>
+    <string name="button_for_ssl_go_forward">Continue</string>
     <string name="changelogDesc">"Updated Changelog forum thread for the next release"</string>
     <string name="changelogTitle">"Changelog"</string>
+    <string name="com_kakao_account_cancel">Cancel</string>
+    <string name="com_kakao_account_cancel_tts">Cancel, Button</string>
+    <string name="com_kakao_cancel_button">Cancel</string>
+    <string name="com_kakao_confirm_logout">Are you sure to log out from this app?</string>
+    <string name="com_kakao_confirm_unlink">Are you sure to unlink from this app?</string>
+    <string name="com_kakao_kakaostory_account">with KakaoStory</string>
+    <string name="com_kakao_kakaostory_account_tts">with KakaoStory, Button</string>
+    <string name="com_kakao_kakaotalk_account">with KakaoTalk</string>
+    <string name="com_kakao_kakaotalk_account_tts">with KakaoTalk, Button</string>
+    <string name="com_kakao_login_button">Log in with KakaoAccount</string>
+    <string name="com_kakao_login_button_tts">Log in with KakaoAccount, Button</string>
+    <string name="com_kakao_login_image_tts">Login with KakaoAccount, Image</string>
+    <string name="com_kakao_logout_button">Log out</string>
+    <string name="com_kakao_ok_button">OK</string>
+    <string name="com_kakao_other_kakaoaccount">with another KakaoAccount</string>
+    <string name="com_kakao_other_kakaoaccount_tts">with another KakaoAccount, Button</string>
+    <string name="com_kakao_profile_nickname">Nickname</string>
+    <string name="com_kakao_profile_userId">Kakao User ID</string>
+    <string name="com_kakao_tokeninfo_button">Token Info</string>
+    <string name="com_kakao_unlink_button">Unlink</string>
+    <string name="core_com_kakao_sdk_loading">Loading…</string>
     <string name="creditsDesc">"A bit about the devs and all others to thank"</string>
     <string name="creditsTitle">"Credits"</string>
     <string name="dark">"dark"</string>
@@ -827,6 +866,7 @@ This beta release is for use as is, no warrantees expressed or implied. We are n
     <string name="lastDir">"lastDir"</string>
     <string name="lastDirDefault">""</string>
     <string name="linksCategoryTitle">"Links"</string>
+    <string name="log_in_text">Log in</string>
     <string name="machineSettingsCategoryTitle">"Machine Settings"</string>
     <string name="manualOGGOffset">"manualOGGOffset"</string>
     <string name="manualOGGOffsetDefault">"0"</string>
@@ -836,6 +876,7 @@ This beta release is for use as is, no warrantees expressed or implied. We are n
     <string name="manualOffsetDefault">"0"</string>
     <string name="manualOffsetDesc">"Manually adjust this only if timing is off-sync"</string>
     <string name="manualOffsetTitle">"Music Offset"</string>
+    <string name="message_for_ssl_warning">There are problems with the security certificate for this site.</string>
     <string name="miscCategoryTitle">"Misc"</string>
     <string name="modifiersScreenDesc">"Modifiers affecting the notes data or appearances"</string>
     <string name="modifiersScreenTitle">"Modifiers"</string>
@@ -908,6 +949,7 @@ This beta release is for use as is, no warrantees expressed or implied. We are n
     <string name="tapboxYOffsetDesc">"Vertical shift of tapboxes"</string>
     <string name="tapboxYOffsetTitle">"Tapbox Placement"</string>
     <string name="thanksCategoryTitle">"Thanks"</string>
+    <string name="title_for_ssl_warning">Security Warning</string>
     <string name="todoDesc">"Updated To-Do List forum thread for the next release"</string>
     <string name="todoTitle">"To-Do List"</string>
     <string name="tutorialDesc">"Video tutorial demonstrating various features of Beats"</string>
@@ -939,6 +981,19 @@ This beta release is for use as is, no warrantees expressed or implied. We are n
     <string name="vibrateTouchSenseTitle">"Vibrate with UHL"</string>
     <string name="websiteDesc">"Read the latest updates at Beats\' official website http://beatsportable.com"</string>
     <string name="websiteTitle">"Website"</string>
+    <style name="LoginDialog" parent="android:Theme.Holo.Dialog">
+        <item name="android:windowFrame">@null</item>
+        <item name="android:windowBackground">@android:color/transparent</item>
+        <item name="android:backgroundDimAmount">0.85</item>
+        <item name="android:windowIsFloating">true</item>
+        <item name="android:windowContentOverlay">@null</item>
+        <!--<item name="android:windowAnimationStyle">@style/Animation.Holo.Dialog</item>-->
+        <item name="android:windowSoftInputMode">stateUnspecified|adjustPan</item>
+        <item name="android:windowActionBar">false</item>
+        <item name="android:windowActionModeOverlay">true</item>
+        <!--<item name="android:windowCloseOnTouchOutside">@bool/config_closeDialogWhenTouchOutside</item>-->
+        <item name="android:colorBackgroundCacheHint">@null</item>
+    </style>
     <style name="Theme.NoBackground" parent="android:Theme">
         <item name="android:windowBackground">@null</item>
     </style>

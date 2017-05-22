@@ -1,5 +1,7 @@
 package com.beatsportable.beats;
 
+import com.beatsportable.beats.tools.Tools;
+
 import java.util.LinkedList;
 import java.util.Random;
 

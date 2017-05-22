@@ -8,6 +8,7 @@ import java.util.Scanner;
 import com.beatsportable.beats.DataNote.NoteType;
 import com.beatsportable.beats.DataNotesData.Difficulty;
 import com.beatsportable.beats.DataNotesData.NotesType;
+import com.beatsportable.beats.gui.GUINoteImage;
 
 /*
  * See http://www.stepmania.com/wiki/The_.SM_file_format

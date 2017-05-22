@@ -1,4 +1,6 @@
 package com.beatsportable.beats;
+import com.beatsportable.beats.tools.Tools;
+
 import java.io.File;
 import java.util.ArrayList;
 import java.util.Collections;
