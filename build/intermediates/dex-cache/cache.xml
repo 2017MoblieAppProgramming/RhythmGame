@@ -2,76 +2,13 @@
 <items version="2" >
 
     <item
-        is-multidex="true"
-        jar="C:\Users\soojin\.android\build-cache\2906be4ca059221f01971405d4db45cf0df4a4c7\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="8c921e82b7b245ea43bcebe5769de6fc2c86d0c9">
-        <dex dex="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_e5aa44944fe3794077a07a66e8d59eb925c9c568\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\soojin\.android\build-cache\dac383a31aa8c51976df357c0fb1b02817887ded\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="b0c5e72d61d5b31525c8b3177b9e8f38b8aa44c9">
-        <dex dex="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_ffe8f44dc8247aa27f12deabff2e135d65480542\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="7e202d2af13598ce16a4f49871037692834af452">
-        <dex dex="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2636d151ffc9869e4ca3aa74890e41364a9f424c\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\soojin\.android\build-cache\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="69b044f124dd8726a7b376e315a7f722628297cc">
-        <dex dex="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_f48fa3b3828c1e638f1a9fc0e9557c6263c9fee2\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="c82741bc129dd5f99f11a4ab8666ae24262053b6">
-        <dex dex="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8c0461c1ce4b5ddf43b9d3909ae9c80e9f56b9c4\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\soojin\.android\build-cache\ffdfa176c8d7a44f74e1105ffcc98a4cd1bccc3f\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="9169ae7138b48682481b2d76250f4c4cceb4bb70">
-        <dex dex="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_baa0e146d9067ab8dbebcdc81420feac70e2424d\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
+        is-multidex="false"
         jar="D:\2017Android Studio Project\RhythmGame\app\libs\UHL.jar"
-        jumboMode="true"
+        jumboMode="false"
         optimize="true"
         revision="25.0.2"
         sha1="9f6e2207f6a895076409cb18b608e82ea2a3e99b">
-        <dex dex="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\2\UHL_bf2f588edf38dadfdee8f83ced4543391a64ac1f\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
-        jar="C:\Users\soojin\.android\build-cache\569766987ff00be09fa89828a3b873bd96a1ddc2\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="5c3fc6f9fc9da7044a4ae48cfd0fa7a27edf2437">
-        <dex dex="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_fce7bec0213d22de82290f6f70996e0f98f4b7c7\classes.dex" />
+        <dex dex="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\pre-dexed\debug\UHL_bf2f588edf38dadfdee8f83ced4543391a64ac1f.jar" />
     </item>
 
 </items>

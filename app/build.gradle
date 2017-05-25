@@ -3,9 +3,8 @@ apply plugin: 'com.android.application'
 android {
     compileSdkVersion 19
     buildToolsVersion "25.0.2"
-
     defaultConfig {
-        applicationId "com.beatsportable.beats"
+        applicationId 'com.mobileapp.joyrhythm'
         minSdkVersion 14
         targetSdkVersion 19
         compileOptions {
@@ -13,7 +12,6 @@ android {
             targetCompatibility JavaVersion.VERSION_1_5
         }
     }
-
     buildTypes {
         release {
             minifyEnabled false
@@ -24,12 +22,12 @@ android {
         targetCompatibility 1.6
         sourceCompatibility 1.6
     }
+    productFlavors {
+    }
 }
 
 dependencies {
     compile files('libs/UHL.jar')
-    compile fileTree(dir: 'libs', include: ['*.jar'])
-    compile group: 'com.kakao.sdk', name: 'usermgmt', version: '1.2.2'
-
-
+    compile fileTree(include: ['*.jar'], dir: 'libs')
+    compile 'com.kakao.sdk:usermgmt:1.2.2'
 }

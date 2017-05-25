@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.beatsportable.beats"
+    package="com.mobileapp.joyrhythm"
     android:installLocation="auto"
     android:versionCode="21" >
 
@@ -10,23 +10,24 @@
 
     <uses-permission android:name="android.permission.INTERNET" /> <!-- Localytics -->
     <uses-permission android:name="android.permission.VIBRATE" /> <!-- Game -->
-    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
-
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" /> <!-- Updates -->
+    <uses-permission android:name="com.android.alarm.permission.SET_ALARM" />
+﻿
     <meta-data
         android:name="android.support.VERSION"
-        android:value="25.3.1" /> <!-- Updates -->
+        android:value="25.3.1" /> <!-- Alarm -->
     <application
-        android:name="com.beatsportable.beats.kakao.GlobalApplication"
+        android:name="com.mobileapp.joyrhythm.kakao.GlobalApplication"
         android:allowBackup="true"
         android:description="@string/App_description"
         android:enabled="true"
         android:hardwareAccelerated="true"
         android:icon="@drawable/icon"
         android:label="@string/App_name" >
-        <activity android:name="com.beatsportable.beats.MenuHome" >
+        <activity android:name="com.mobileapp.joyrhythm.MenuHome" >
         </activity>
         <activity
-            android:name="com.beatsportable.beats.ToolsDownloader"
+            android:name="com.mobileapp.joyrhythm.tools.ToolsDownloader"
             android:configChanges="orientation|keyboardHidden|screenSize" >
 
             <!--
@@ -47,7 +48,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.beatsportable.beats.ToolsUnzipperActivity"
+            android:name="com.mobileapp.joyrhythm.tools.ToolsUnzipperActivity"
             android:configChanges="orientation|keyboardHidden|screenSize" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -105,7 +106,7 @@
                     android:scheme="file" />
             </intent-filter>
         </activity>
-        <activity android:name="com.beatsportable.beats.MenuCreditsActivity" >
+        <activity android:name="com.mobileapp.joyrhythm.MenuCreditsActivity" >
             <intent-filter>
                 <category android:name="android.intent.category.DEFAULT" />
 
@@ -113,15 +114,15 @@
             </intent-filter>
         </activity>
         <activity
-            android:name="com.beatsportable.beats.MenuFileChooser"
+            android:name="com.mobileapp.joyrhythm.MenuFileChooser"
             android:configChanges="orientation|keyboardHidden|screenSize" />
-        <activity android:name="com.beatsportable.beats.MenuSettings" />
+        <activity android:name="com.mobileapp.joyrhythm.MenuSettings" />
         <activity
-            android:name="com.beatsportable.beats.GUIGame"
+            android:name="com.mobileapp.joyrhythm.gui.GUIGame"
             android:configChanges="orientation|keyboardHidden|screenSize"
             android:theme="@style/Theme.NoBackground" />
         <activity
-            android:name="com.beatsportable.beats.kakao.LoginActivity"
+            android:name="com.mobileapp.joyrhythm.kakao.LoginActivity"
             android:theme="@style/Theme.NoBackground" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -134,9 +135,8 @@
             android:name="com.kakao.sdk.AppKey"
             android:value="59e14d589ff9d1df3d7128e3ca7592a5" />
 
-        <activity
-            android:name="com.beatsportable.beats.kakao.SuccessActivity"
-            android:theme="@style/Theme.NoBackground" />
+        <receiver android:name="com.mobileapp.joyrhythm.NotificationReciever" />
+
         <activity
             android:name="com.kakao.auth.authorization.authcode.KakaoWebViewActivity"
             android:configChanges="orientation|screenSize"

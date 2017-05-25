@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest
 	xmlns:android="http://schemas.android.com/apk/res/android"
-	package="com.beatsportable.beats"
+	package="com.mobileapp.joyrhythm"
 	android:versionCode="21"
 
 	android:installLocation="auto">
@@ -12,11 +12,12 @@
 	<uses-permission android:name="android.permission.INTERNET"/> <!-- Localytics -->
 	<uses-permission android:name="android.permission.VIBRATE"/> <!-- Game -->
 	<uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE"/> <!-- Updates -->
+	<uses-permission android:name="android.permission.WAKE_LOCK" />
 
 
 
 	<application
-		android:name=".kakao.GlobalApplication"
+		android:name="com.mobileapp.joyrhythm.kakao.GlobalApplication"
 		android:enabled="true"
 		android:allowBackup="true"
 		android:hardwareAccelerated="true"
@@ -25,11 +26,11 @@
 		android:description="@string/App_description">
 
 		<activity
-			android:name=".MenuHome">
+			android:name="com.mobileapp.joyrhythm.MenuHome">
 		</activity>
 
 		<activity
-			android:name=".tools.ToolsDownloader"
+			android:name="com.mobileapp.joyrhythm.tools.ToolsDownloader"
 			android:configChanges="orientation|keyboardHidden|screenSize">
 			<!--
 				Most websites report .smzip files as of MIME type application/octet-stream
@@ -49,7 +50,7 @@
 		</activity>
 
 		<activity
-			android:name=".tools.ToolsUnzipperActivity"
+			android:name="com.mobileapp.joyrhythm.tools.ToolsUnzipperActivity"
 			android:configChanges="orientation|keyboardHidden|screenSize">
 			<intent-filter>
 				<action android:name="android.intent.action.MAIN" />
@@ -111,7 +112,7 @@
 		</activity>
 
 		<activity
-			android:name=".MenuCreditsActivity">
+			android:name="com.mobileapp.joyrhythm.MenuCreditsActivity">
 			<intent-filter>
 				<category android:name="android.intent.category.DEFAULT" />
 				<action android:name=".MenuCredits" />
@@ -119,26 +120,30 @@
 		</activity>
 
 		<activity
-			android:name=".MenuFileChooser"
+			android:name="com.mobileapp.joyrhythm.MenuFileChooser"
 			android:configChanges="orientation|keyboardHidden|screenSize"/>
-		<activity android:name=".MenuSettings"/>
+		<activity android:name="com.mobileapp.joyrhythm.MenuSettings"/>
 
 		<activity
-			android:name=".gui.GUIGame"
+			android:name="com.mobileapp.joyrhythm.gui.GUIGame"
 			android:theme="@style/Theme.NoBackground"
 			android:configChanges="orientation|keyboardHidden|screenSize"
 			/>
 
 		<activity
-			android:name=".kakao.LoginActivity"
+			android:name="com.mobileapp.joyrhythm.kakao.LoginActivity"
 			android:theme="@style/Theme.NoBackground">
 		<intent-filter>
 			<action	android:name="android.intent.action.MAIN" />
 			<category android:name="android.intent.category.LAUNCHER" />
 		</intent-filter>
 		</activity>
+
 		<meta-data android:name="com.kakao.sdk.AppKey"
 			android:value="59e14d589ff9d1df3d7128e3ca7592a5" />
+
+
+		<receiver android:name="com.mobileapp.joyrhythm.NotificationReciever"></receiver>
 
 	</application>
 </manifest>
