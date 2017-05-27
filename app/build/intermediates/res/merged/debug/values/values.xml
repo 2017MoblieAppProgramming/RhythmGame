@@ -751,6 +751,9 @@ This beta release is for use as is, no warrantees expressed or implied. We are n
     <string name="changelogTitle">"Changelog"</string>
     <string name="com_kakao_account_cancel">Cancel</string>
     <string name="com_kakao_account_cancel_tts">Cancel, Button</string>
+    <string name="com_kakao_alert_appKey">need to declare com.kakao.sdk.AppKey in your AndroidManifest.xml</string>
+    <string name="com_kakao_alert_install_kakaotalk">Please update KakaoTalk to the latest version.</string>
+    <string name="com_kakao_alert_uri_too_long">Failed to send message because it exceeds the message size limit. Please contact the app administrator.</string>
     <string name="com_kakao_cancel_button">Cancel</string>
     <string name="com_kakao_confirm_logout">Are you sure to log out from this app?</string>
     <string name="com_kakao_confirm_unlink">Are you sure to unlink from this app?</string>
@@ -859,6 +862,9 @@ This beta release is for use as is, no warrantees expressed or implied. We are n
     <string name="jumpsDefault">"0"</string>
     <string name="jumpsDesc">"Multiple notes per line"</string>
     <string name="jumpsTitle">"Jumps"</string>
+    <string name="kakao_app_key">59e14d589ff9d1df3d7128e3ca7592a5</string>
+    <string name="kakao_scheme">kakao59e14d589ff9d1df3d7128e3ca7592a5</string>
+    <string name="kakaolink_host">kakaolink</string>
     <string name="language">"language"</string>
     <string name="languageDefault">"default"</string>
     <string name="languageDesc">"Change displayed language"</string>

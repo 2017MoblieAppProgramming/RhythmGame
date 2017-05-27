@@ -3,6 +3,7 @@ package com.mobileapp.joyrhythm.gui;
 import android.graphics.Canvas;
 import android.graphics.Paint;
 import android.graphics.Rect;
+import android.widget.Button;
 
 import com.mobileapp.joyrhythm.R;
 import com.mobileapp.joyrhythm.tools.Tools;
@@ -18,7 +19,7 @@ public class GUIScoreDisplay {
 	private String gameOverText;
 	private String back1, back2;
 	private GUIScore score;
-	
+
 	public GUIScoreDisplay(GUIScore score) {
 		this.score = score;
 		filterPaint = new Paint();

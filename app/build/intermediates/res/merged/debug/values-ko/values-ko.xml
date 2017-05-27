@@ -251,6 +251,9 @@
     <string name="changelogTitle">"이력"</string>
     <string name="com_kakao_account_cancel">취소</string>
     <string name="com_kakao_account_cancel_tts">취소, 버튼</string>
+    <string name="com_kakao_alert_appKey">AndroidManifest.xml에 com.kakao.sdk.AppKey을 선언해야 합니다.</string>
+    <string name="com_kakao_alert_install_kakaotalk">최신버전의 카카오톡으로 업데이트가 필요합니다.</string>
+    <string name="com_kakao_alert_uri_too_long">전송할 수 있는 메시지 용량을 초과하여 전송에 실패했습니다. 해당 앱의 관리자에게 문의해주세요. </string>
     <string name="com_kakao_cancel_button">취소</string>
     <string name="com_kakao_confirm_logout">이 앱을 로그아웃 하시겠습니까?</string>
     <string name="com_kakao_confirm_unlink">이 앱을 탈퇴하시겠습니까?</string>

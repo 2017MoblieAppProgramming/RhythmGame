@@ -38,9 +38,5 @@
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\layout\\activity_login.xml"
-    },
-    {
-        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
-        "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\layout\\activity_main.xml"
     }
 ]

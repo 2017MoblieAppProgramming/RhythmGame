@@ -32,6 +32,10 @@
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_fail.png"
     },
     {
+        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharekakao.png",
+        "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\sharekakao.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_account_button_background.xml",
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_account_button_background.xml"
     },
@@ -140,12 +144,12 @@
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_step_down.png"
     },
     {
-        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\story.png",
-        "source": "C:\\Users\\soojin\\.android\\build-cache\\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\\output\\res\\drawable\\story.png"
-    },
-    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_account_logo.png",
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_account_logo.png"
+    },
+    {
+        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\story.png",
+        "source": "C:\\Users\\soojin\\.android\\build-cache\\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\\output\\res\\drawable\\story.png"
     },
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_url.png",

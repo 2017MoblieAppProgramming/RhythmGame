@@ -3569,8 +3569,65 @@
                     "startLine": 253,
                     "startColumn": 4,
                     "startOffset": 13943,
+                    "endColumn": 103,
+                    "endOffset": 14042
+                },
+                "from": {
+                    "file": "C:\\Users\\soojin\\.android\\build-cache\\994ba76ffba42bfcd60e392693fc57dd5c77bfe5\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 103,
+                        "endOffset": 154
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 254,
+                    "startColumn": 4,
+                    "startOffset": 14047,
+                    "endColumn": 87,
+                    "endOffset": 14130
+                },
+                "from": {
+                    "file": "C:\\Users\\soojin\\.android\\build-cache\\994ba76ffba42bfcd60e392693fc57dd5c77bfe5\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 159,
+                        "endColumn": 87,
+                        "endOffset": 242
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 255,
+                    "startColumn": 4,
+                    "startOffset": 14135,
+                    "endColumn": 111,
+                    "endOffset": 14242
+                },
+                "from": {
+                    "file": "C:\\Users\\soojin\\.android\\build-cache\\994ba76ffba42bfcd60e392693fc57dd5c77bfe5\\output\\res\\values-ko\\values-ko.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 247,
+                        "endColumn": 111,
+                        "endOffset": 354
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 256,
+                    "startColumn": 4,
+                    "startOffset": 14247,
                     "endColumn": 54,
-                    "endOffset": 13993
+                    "endOffset": 14297
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3585,11 +3642,11 @@
             },
             {
                 "to": {
-                    "startLine": 254,
+                    "startLine": 257,
                     "startColumn": 4,
-                    "startOffset": 13998,
+                    "startOffset": 14302,
                     "endColumn": 70,
-                    "endOffset": 14064
+                    "endOffset": 14368
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3604,11 +3661,11 @@
             },
             {
                 "to": {
-                    "startLine": 255,
+                    "startLine": 258,
                     "startColumn": 4,
-                    "startOffset": 14069,
+                    "startOffset": 14373,
                     "endColumn": 67,
-                    "endOffset": 14132
+                    "endOffset": 14436
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3623,11 +3680,11 @@
             },
             {
                 "to": {
-                    "startLine": 256,
+                    "startLine": 259,
                     "startColumn": 4,
-                    "startOffset": 14137,
+                    "startOffset": 14441,
                     "endColumn": 70,
-                    "endOffset": 14203
+                    "endOffset": 14507
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3642,11 +3699,11 @@
             },
             {
                 "to": {
-                    "startLine": 257,
+                    "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 14208,
+                    "startOffset": 14512,
                     "endColumn": 78,
-                    "endOffset": 14282
+                    "endOffset": 14586
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3661,11 +3718,11 @@
             },
             {
                 "to": {
-                    "startLine": 258,
+                    "startLine": 261,
                     "startColumn": 4,
-                    "startOffset": 14287,
+                    "startOffset": 14591,
                     "endColumn": 68,
-                    "endOffset": 14351
+                    "endOffset": 14655
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3680,11 +3737,11 @@
             },
             {
                 "to": {
-                    "startLine": 259,
+                    "startLine": 262,
                     "startColumn": 4,
-                    "startOffset": 14356,
+                    "startOffset": 14660,
                     "endColumn": 76,
-                    "endOffset": 14428
+                    "endOffset": 14732
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3699,11 +3756,11 @@
             },
             {
                 "to": {
-                    "startLine": 260,
+                    "startLine": 263,
                     "startColumn": 4,
-                    "startOffset": 14433,
+                    "startOffset": 14737,
                     "endColumn": 62,
-                    "endOffset": 14491
+                    "endOffset": 14795
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3718,11 +3775,11 @@
             },
             {
                 "to": {
-                    "startLine": 261,
+                    "startLine": 264,
                     "startColumn": 4,
-                    "startOffset": 14496,
+                    "startOffset": 14800,
                     "endColumn": 70,
-                    "endOffset": 14562
+                    "endOffset": 14866
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3737,11 +3794,11 @@
             },
             {
                 "to": {
-                    "startLine": 262,
+                    "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 14567,
+                    "startOffset": 14871,
                     "endColumn": 69,
-                    "endOffset": 14632
+                    "endOffset": 14936
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3756,11 +3813,11 @@
             },
             {
                 "to": {
-                    "startLine": 263,
+                    "startLine": 266,
                     "startColumn": 4,
-                    "startOffset": 14637,
+                    "startOffset": 14941,
                     "endColumn": 56,
-                    "endOffset": 14689
+                    "endOffset": 14993
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3775,11 +3832,11 @@
             },
             {
                 "to": {
-                    "startLine": 264,
+                    "startLine": 267,
                     "startColumn": 4,
-                    "startOffset": 14694,
+                    "startOffset": 14998,
                     "endColumn": 50,
-                    "endOffset": 14740
+                    "endOffset": 15044
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3794,11 +3851,11 @@
             },
             {
                 "to": {
-                    "startLine": 265,
+                    "startLine": 268,
                     "startColumn": 4,
-                    "startOffset": 14745,
+                    "startOffset": 15049,
                     "endColumn": 71,
-                    "endOffset": 14812
+                    "endOffset": 15116
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3813,11 +3870,11 @@
             },
             {
                 "to": {
-                    "startLine": 266,
+                    "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 14817,
+                    "startOffset": 15121,
                     "endColumn": 79,
-                    "endOffset": 14892
+                    "endOffset": 15196
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3832,11 +3889,11 @@
             },
             {
                 "to": {
-                    "startLine": 267,
+                    "startLine": 270,
                     "startColumn": 4,
-                    "startOffset": 14897,
+                    "startOffset": 15201,
                     "endColumn": 63,
-                    "endOffset": 14956
+                    "endOffset": 15260
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3851,11 +3908,11 @@
             },
             {
                 "to": {
-                    "startLine": 268,
+                    "startLine": 271,
                     "startColumn": 4,
-                    "startOffset": 14961,
+                    "startOffset": 15265,
                     "endColumn": 59,
-                    "endOffset": 15016
+                    "endOffset": 15320
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3870,11 +3927,11 @@
             },
             {
                 "to": {
-                    "startLine": 269,
+                    "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 15021,
+                    "startOffset": 15325,
                     "endColumn": 54,
-                    "endOffset": 15071
+                    "endOffset": 15375
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\values-ko\\values-ko.xml",
@@ -3889,11 +3946,11 @@
             },
             {
                 "to": {
-                    "startLine": 270,
+                    "startLine": 273,
                     "startColumn": 4,
-                    "startOffset": 15076,
+                    "startOffset": 15380,
                     "endColumn": 59,
-                    "endOffset": 15131
+                    "endOffset": 15435
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\dac383a31aa8c51976df357c0fb1b02817887ded\\output\\res\\values-ko\\values-ko.xml",
@@ -3908,11 +3965,11 @@
             },
             {
                 "to": {
-                    "startLine": 271,
+                    "startLine": 274,
                     "startColumn": 4,
-                    "startOffset": 15136,
+                    "startOffset": 15440,
                     "endColumn": 54,
-                    "endOffset": 15186
+                    "endOffset": 15490
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -3927,11 +3984,11 @@
             },
             {
                 "to": {
-                    "startLine": 272,
+                    "startLine": 275,
                     "startColumn": 4,
-                    "startOffset": 15191,
+                    "startOffset": 15495,
                     "endColumn": 47,
-                    "endOffset": 15234
+                    "endOffset": 15538
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -3946,11 +4003,11 @@
             },
             {
                 "to": {
-                    "startLine": 273,
+                    "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 15239,
+                    "startOffset": 15543,
                     "endColumn": 47,
-                    "endOffset": 15282
+                    "endOffset": 15586
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -3965,11 +4022,11 @@
             },
             {
                 "to": {
-                    "startLine": 274,
+                    "startLine": 277,
                     "startColumn": 4,
-                    "startOffset": 15287,
+                    "startOffset": 15591,
                     "endColumn": 42,
-                    "endOffset": 15325
+                    "endOffset": 15629
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -3984,11 +4041,11 @@
             },
             {
                 "to": {
-                    "startLine": 275,
+                    "startLine": 278,
                     "startColumn": 4,
-                    "startOffset": 15330,
+                    "startOffset": 15634,
                     "endColumn": 67,
-                    "endOffset": 15393
+                    "endOffset": 15697
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4003,11 +4060,11 @@
             },
             {
                 "to": {
-                    "startLine": 276,
+                    "startLine": 279,
                     "startColumn": 4,
-                    "startOffset": 15398,
+                    "startOffset": 15702,
                     "endColumn": 57,
-                    "endOffset": 15451
+                    "endOffset": 15755
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4022,11 +4079,11 @@
             },
             {
                 "to": {
-                    "startLine": 277,
+                    "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 15456,
+                    "startOffset": 15760,
                     "endColumn": 55,
-                    "endOffset": 15507
+                    "endOffset": 15811
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4041,11 +4098,11 @@
             },
             {
                 "to": {
-                    "startLine": 278,
+                    "startLine": 281,
                     "startColumn": 4,
-                    "startOffset": 15512,
+                    "startOffset": 15816,
                     "endColumn": 55,
-                    "endOffset": 15563
+                    "endOffset": 15867
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4060,11 +4117,11 @@
             },
             {
                 "to": {
-                    "startLine": 279,
+                    "startLine": 282,
                     "startColumn": 4,
-                    "startOffset": 15568,
+                    "startOffset": 15872,
                     "endColumn": 59,
-                    "endOffset": 15623
+                    "endOffset": 15927
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4079,11 +4136,11 @@
             },
             {
                 "to": {
-                    "startLine": 280,
+                    "startLine": 283,
                     "startColumn": 4,
-                    "startOffset": 15628,
+                    "startOffset": 15932,
                     "endColumn": 51,
-                    "endOffset": 15675
+                    "endOffset": 15979
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4098,11 +4155,11 @@
             },
             {
                 "to": {
-                    "startLine": 281,
+                    "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 15680,
+                    "startOffset": 15984,
                     "endColumn": 56,
-                    "endOffset": 15732
+                    "endOffset": 16036
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4117,11 +4174,11 @@
             },
             {
                 "to": {
-                    "startLine": 282,
+                    "startLine": 285,
                     "startColumn": 4,
-                    "startOffset": 15737,
+                    "startOffset": 16041,
                     "endColumn": 52,
-                    "endOffset": 15785
+                    "endOffset": 16089
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4136,11 +4193,11 @@
             },
             {
                 "to": {
-                    "startLine": 283,
+                    "startLine": 286,
                     "startColumn": 4,
-                    "startOffset": 15790,
+                    "startOffset": 16094,
                     "endColumn": 42,
-                    "endOffset": 15828
+                    "endOffset": 16132
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4155,11 +4212,11 @@
             },
             {
                 "to": {
-                    "startLine": 284,
+                    "startLine": 287,
                     "startColumn": 4,
-                    "startOffset": 15833,
+                    "startOffset": 16137,
                     "endColumn": 56,
-                    "endOffset": 15885
+                    "endOffset": 16189
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4174,11 +4231,11 @@
             },
             {
                 "to": {
-                    "startLine": 285,
+                    "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 15890,
+                    "startOffset": 16194,
                     "endColumn": 54,
-                    "endOffset": 15940
+                    "endOffset": 16244
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4193,11 +4250,11 @@
             },
             {
                 "to": {
-                    "startLine": 286,
+                    "startLine": 289,
                     "startColumn": 4,
-                    "startOffset": 15945,
+                    "startOffset": 16249,
                     "endColumn": 64,
-                    "endOffset": 16005
+                    "endOffset": 16309
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4212,11 +4269,11 @@
             },
             {
                 "to": {
-                    "startLine": 287,
+                    "startLine": 290,
                     "startColumn": 4,
-                    "startOffset": 16010,
+                    "startOffset": 16314,
                     "endColumn": 65,
-                    "endOffset": 16071
+                    "endOffset": 16375
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4231,11 +4288,11 @@
             },
             {
                 "to": {
-                    "startLine": 288,
+                    "startLine": 291,
                     "startColumn": 4,
-                    "startOffset": 16076,
+                    "startOffset": 16380,
                     "endColumn": 44,
-                    "endOffset": 16116
+                    "endOffset": 16420
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4250,11 +4307,11 @@
             },
             {
                 "to": {
-                    "startLine": 289,
+                    "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 16121,
+                    "startOffset": 16425,
                     "endColumn": 59,
-                    "endOffset": 16176
+                    "endOffset": 16480
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4269,11 +4326,11 @@
             },
             {
                 "to": {
-                    "startLine": 290,
+                    "startLine": 293,
                     "startColumn": 4,
-                    "startOffset": 16181,
+                    "startOffset": 16485,
                     "endColumn": 60,
-                    "endOffset": 16237
+                    "endOffset": 16541
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4288,11 +4345,11 @@
             },
             {
                 "to": {
-                    "startLine": 291,
+                    "startLine": 294,
                     "startColumn": 4,
-                    "startOffset": 16242,
+                    "startOffset": 16546,
                     "endColumn": 44,
-                    "endOffset": 16282
+                    "endOffset": 16586
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4307,11 +4364,11 @@
             },
             {
                 "to": {
-                    "startLine": 292,
+                    "startLine": 295,
                     "startColumn": 4,
-                    "startOffset": 16287,
+                    "startOffset": 16591,
                     "endColumn": 54,
-                    "endOffset": 16337
+                    "endOffset": 16641
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4326,11 +4383,11 @@
             },
             {
                 "to": {
-                    "startLine": 293,
+                    "startLine": 296,
                     "startColumn": 4,
-                    "startOffset": 16342,
+                    "startOffset": 16646,
                     "endColumn": 50,
-                    "endOffset": 16388
+                    "endOffset": 16692
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4345,11 +4402,11 @@
             },
             {
                 "to": {
-                    "startLine": 294,
+                    "startLine": 297,
                     "startColumn": 4,
-                    "startOffset": 16393,
+                    "startOffset": 16697,
                     "endColumn": 51,
-                    "endOffset": 16440
+                    "endOffset": 16744
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4364,11 +4421,11 @@
             },
             {
                 "to": {
-                    "startLine": 295,
+                    "startLine": 298,
                     "startColumn": 4,
-                    "startOffset": 16445,
+                    "startOffset": 16749,
                     "endColumn": 49,
-                    "endOffset": 16490
+                    "endOffset": 16794
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4383,11 +4440,11 @@
             },
             {
                 "to": {
-                    "startLine": 296,
+                    "startLine": 299,
                     "startColumn": 4,
-                    "startOffset": 16495,
+                    "startOffset": 16799,
                     "endColumn": 56,
-                    "endOffset": 16547
+                    "endOffset": 16851
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4402,11 +4459,11 @@
             },
             {
                 "to": {
-                    "startLine": 297,
+                    "startLine": 300,
                     "startColumn": 4,
-                    "startOffset": 16552,
+                    "startOffset": 16856,
                     "endColumn": 51,
-                    "endOffset": 16599
+                    "endOffset": 16903
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4421,11 +4478,11 @@
             },
             {
                 "to": {
-                    "startLine": 298,
+                    "startLine": 301,
                     "startColumn": 4,
-                    "startOffset": 16604,
+                    "startOffset": 16908,
                     "endColumn": 61,
-                    "endOffset": 16661
+                    "endOffset": 16965
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4440,11 +4497,11 @@
             },
             {
                 "to": {
-                    "startLine": 299,
+                    "startLine": 302,
                     "startColumn": 4,
-                    "startOffset": 16666,
+                    "startOffset": 16970,
                     "endColumn": 57,
-                    "endOffset": 16719
+                    "endOffset": 17023
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4459,11 +4516,11 @@
             },
             {
                 "to": {
-                    "startLine": 300,
+                    "startLine": 303,
                     "startColumn": 4,
-                    "startOffset": 16724,
+                    "startOffset": 17028,
                     "endColumn": 71,
-                    "endOffset": 16791
+                    "endOffset": 17095
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4478,11 +4535,11 @@
             },
             {
                 "to": {
-                    "startLine": 301,
+                    "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 16796,
+                    "startOffset": 17100,
                     "endColumn": 61,
-                    "endOffset": 16853
+                    "endOffset": 17157
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4497,11 +4554,11 @@
             },
             {
                 "to": {
-                    "startLine": 302,
+                    "startLine": 305,
                     "startColumn": 4,
-                    "startOffset": 16858,
+                    "startOffset": 17162,
                     "endColumn": 48,
-                    "endOffset": 16902
+                    "endOffset": 17206
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4516,11 +4573,11 @@
             },
             {
                 "to": {
-                    "startLine": 303,
+                    "startLine": 306,
                     "startColumn": 4,
-                    "startOffset": 16907,
+                    "startOffset": 17211,
                     "endColumn": 47,
-                    "endOffset": 16950
+                    "endOffset": 17254
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4535,11 +4592,11 @@
             },
             {
                 "to": {
-                    "startLine": 304,
+                    "startLine": 307,
                     "startColumn": 4,
-                    "startOffset": 16955,
+                    "startOffset": 17259,
                     "endColumn": 60,
-                    "endOffset": 17011
+                    "endOffset": 17315
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4554,11 +4611,11 @@
             },
             {
                 "to": {
-                    "startLine": 305,
+                    "startLine": 308,
                     "startColumn": 4,
-                    "startOffset": 17016,
+                    "startOffset": 17320,
                     "endColumn": 55,
-                    "endOffset": 17067
+                    "endOffset": 17371
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4573,11 +4630,11 @@
             },
             {
                 "to": {
-                    "startLine": 306,
+                    "startLine": 309,
                     "startColumn": 4,
-                    "startOffset": 17072,
+                    "startOffset": 17376,
                     "endColumn": 53,
-                    "endOffset": 17121
+                    "endOffset": 17425
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4592,11 +4649,11 @@
             },
             {
                 "to": {
-                    "startLine": 307,
+                    "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 17126,
+                    "startOffset": 17430,
                     "endColumn": 44,
-                    "endOffset": 17166
+                    "endOffset": 17470
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4611,11 +4668,11 @@
             },
             {
                 "to": {
-                    "startLine": 308,
+                    "startLine": 311,
                     "startColumn": 4,
-                    "startOffset": 17171,
+                    "startOffset": 17475,
                     "endColumn": 50,
-                    "endOffset": 17217
+                    "endOffset": 17521
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4630,11 +4687,11 @@
             },
             {
                 "to": {
-                    "startLine": 309,
+                    "startLine": 312,
                     "startColumn": 4,
-                    "startOffset": 17222,
+                    "startOffset": 17526,
                     "endColumn": 60,
-                    "endOffset": 17278
+                    "endOffset": 17582
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4649,11 +4706,11 @@
             },
             {
                 "to": {
-                    "startLine": 310,
+                    "startLine": 313,
                     "startColumn": 4,
-                    "startOffset": 17283,
+                    "startOffset": 17587,
                     "endColumn": 48,
-                    "endOffset": 17327
+                    "endOffset": 17631
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4668,11 +4725,11 @@
             },
             {
                 "to": {
-                    "startLine": 311,
+                    "startLine": 314,
                     "startColumn": 4,
-                    "startOffset": 17332,
+                    "startOffset": 17636,
                     "endColumn": 59,
-                    "endOffset": 17387
+                    "endOffset": 17691
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4687,11 +4744,11 @@
             },
             {
                 "to": {
-                    "startLine": 312,
+                    "startLine": 315,
                     "startColumn": 4,
-                    "startOffset": 17392,
+                    "startOffset": 17696,
                     "endColumn": 59,
-                    "endOffset": 17447
+                    "endOffset": 17751
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4706,11 +4763,11 @@
             },
             {
                 "to": {
-                    "startLine": 313,
+                    "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 17452,
+                    "startOffset": 17756,
                     "endColumn": 61,
-                    "endOffset": 17509
+                    "endOffset": 17813
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4725,11 +4782,11 @@
             },
             {
                 "to": {
-                    "startLine": 314,
+                    "startLine": 317,
                     "startColumn": 4,
-                    "startOffset": 17514,
+                    "startOffset": 17818,
                     "endColumn": 54,
-                    "endOffset": 17564
+                    "endOffset": 17868
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4744,11 +4801,11 @@
             },
             {
                 "to": {
-                    "startLine": 315,
+                    "startLine": 318,
                     "startColumn": 4,
-                    "startOffset": 17569,
+                    "startOffset": 17873,
                     "endColumn": 43,
-                    "endOffset": 17608
+                    "endOffset": 17912
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4763,11 +4820,11 @@
             },
             {
                 "to": {
-                    "startLine": 316,
+                    "startLine": 319,
                     "startColumn": 4,
-                    "startOffset": 17613,
+                    "startOffset": 17917,
                     "endColumn": 51,
-                    "endOffset": 17660
+                    "endOffset": 17964
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4782,11 +4839,11 @@
             },
             {
                 "to": {
-                    "startLine": 317,
+                    "startLine": 320,
                     "startColumn": 4,
-                    "startOffset": 17665,
+                    "startOffset": 17969,
                     "endColumn": 46,
-                    "endOffset": 17707
+                    "endOffset": 18011
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4801,11 +4858,11 @@
             },
             {
                 "to": {
-                    "startLine": 318,
+                    "startLine": 321,
                     "startColumn": 4,
-                    "startOffset": 17712,
+                    "startOffset": 18016,
                     "endColumn": 51,
-                    "endOffset": 17759
+                    "endOffset": 18063
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4820,11 +4877,11 @@
             },
             {
                 "to": {
-                    "startLine": 319,
+                    "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 17764,
+                    "startOffset": 18068,
                     "endColumn": 65,
-                    "endOffset": 17825
+                    "endOffset": 18129
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4839,11 +4896,11 @@
             },
             {
                 "to": {
-                    "startLine": 320,
+                    "startLine": 323,
                     "startColumn": 4,
-                    "startOffset": 17830,
+                    "startOffset": 18134,
                     "endColumn": 99,
-                    "endOffset": 17925
+                    "endOffset": 18229
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4858,11 +4915,11 @@
             },
             {
                 "to": {
-                    "startLine": 321,
+                    "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 17930,
+                    "startOffset": 18234,
                     "endColumn": 57,
-                    "endOffset": 17983
+                    "endOffset": 18287
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4877,11 +4934,11 @@
             },
             {
                 "to": {
-                    "startLine": 322,
+                    "startLine": 325,
                     "startColumn": 4,
-                    "startOffset": 17988,
+                    "startOffset": 18292,
                     "endColumn": 78,
-                    "endOffset": 18062
+                    "endOffset": 18366
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4896,11 +4953,11 @@
             },
             {
                 "to": {
-                    "startLine": 323,
+                    "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 18067,
+                    "startOffset": 18371,
                     "endColumn": 53,
-                    "endOffset": 18116
+                    "endOffset": 18420
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4915,11 +4972,11 @@
             },
             {
                 "to": {
-                    "startLine": 324,
+                    "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 18121,
+                    "startOffset": 18425,
                     "endColumn": 74,
-                    "endOffset": 18191
+                    "endOffset": 18495
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\dac383a31aa8c51976df357c0fb1b02817887ded\\output\\res\\values-ko\\values-ko.xml",
@@ -4934,11 +4991,11 @@
             },
             {
                 "to": {
-                    "startLine": 325,
+                    "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 18196,
+                    "startOffset": 18500,
                     "endColumn": 50,
-                    "endOffset": 18242
+                    "endOffset": 18546
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4953,11 +5010,11 @@
             },
             {
                 "to": {
-                    "startLine": 326,
+                    "startLine": 329,
                     "startColumn": 4,
-                    "startOffset": 18247,
+                    "startOffset": 18551,
                     "endColumn": 63,
-                    "endOffset": 18306
+                    "endOffset": 18610
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4972,11 +5029,11 @@
             },
             {
                 "to": {
-                    "startLine": 327,
+                    "startLine": 330,
                     "startColumn": 4,
-                    "startOffset": 18311,
+                    "startOffset": 18615,
                     "endColumn": 54,
-                    "endOffset": 18361
+                    "endOffset": 18665
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -4991,11 +5048,11 @@
             },
             {
                 "to": {
-                    "startLine": 328,
+                    "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 18366,
+                    "startOffset": 18670,
                     "endColumn": 56,
-                    "endOffset": 18418
+                    "endOffset": 18722
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5010,11 +5067,11 @@
             },
             {
                 "to": {
-                    "startLine": 329,
+                    "startLine": 332,
                     "startColumn": 4,
-                    "startOffset": 18423,
+                    "startOffset": 18727,
                     "endColumn": 52,
-                    "endOffset": 18471
+                    "endOffset": 18775
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5029,11 +5086,11 @@
             },
             {
                 "to": {
-                    "startLine": 330,
+                    "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 18476,
+                    "startOffset": 18780,
                     "endColumn": 52,
-                    "endOffset": 18524
+                    "endOffset": 18828
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5048,11 +5105,11 @@
             },
             {
                 "to": {
-                    "startLine": 331,
+                    "startLine": 334,
                     "startColumn": 4,
-                    "startOffset": 18529,
+                    "startOffset": 18833,
                     "endColumn": 54,
-                    "endOffset": 18579
+                    "endOffset": 18883
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5067,11 +5124,11 @@
             },
             {
                 "to": {
-                    "startLine": 332,
+                    "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 18584,
+                    "startOffset": 18888,
                     "endColumn": 49,
-                    "endOffset": 18629
+                    "endOffset": 18933
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5086,11 +5143,11 @@
             },
             {
                 "to": {
-                    "startLine": 333,
+                    "startLine": 336,
                     "startColumn": 4,
-                    "startOffset": 18634,
+                    "startOffset": 18938,
                     "endColumn": 55,
-                    "endOffset": 18685
+                    "endOffset": 18989
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5105,11 +5162,11 @@
             },
             {
                 "to": {
-                    "startLine": 334,
+                    "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 18690,
+                    "startOffset": 18994,
                     "endColumn": 53,
-                    "endOffset": 18739
+                    "endOffset": 19043
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5124,11 +5181,11 @@
             },
             {
                 "to": {
-                    "startLine": 335,
+                    "startLine": 338,
                     "startColumn": 4,
-                    "startOffset": 18744,
+                    "startOffset": 19048,
                     "endColumn": 62,
-                    "endOffset": 18802
+                    "endOffset": 19106
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5143,11 +5200,11 @@
             },
             {
                 "to": {
-                    "startLine": 336,
+                    "startLine": 339,
                     "startColumn": 4,
-                    "startOffset": 18807,
+                    "startOffset": 19111,
                     "endColumn": 47,
-                    "endOffset": 18850
+                    "endOffset": 19154
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5162,11 +5219,11 @@
             },
             {
                 "to": {
-                    "startLine": 337,
+                    "startLine": 340,
                     "startColumn": 4,
-                    "startOffset": 18855,
+                    "startOffset": 19159,
                     "endColumn": 69,
-                    "endOffset": 18920
+                    "endOffset": 19224
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5181,11 +5238,11 @@
             },
             {
                 "to": {
-                    "startLine": 338,
+                    "startLine": 341,
                     "startColumn": 4,
-                    "startOffset": 18925,
+                    "startOffset": 19229,
                     "endColumn": 60,
-                    "endOffset": 18981
+                    "endOffset": 19285
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5200,11 +5257,11 @@
             },
             {
                 "to": {
-                    "startLine": 339,
+                    "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 18986,
+                    "startOffset": 19290,
                     "endColumn": 63,
-                    "endOffset": 19045
+                    "endOffset": 19349
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5219,11 +5276,11 @@
             },
             {
                 "to": {
-                    "startLine": 340,
+                    "startLine": 343,
                     "startColumn": 4,
-                    "startOffset": 19050,
+                    "startOffset": 19354,
                     "endColumn": 59,
-                    "endOffset": 19105
+                    "endOffset": 19409
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5238,11 +5295,11 @@
             },
             {
                 "to": {
-                    "startLine": 341,
+                    "startLine": 344,
                     "startColumn": 4,
-                    "startOffset": 19110,
+                    "startOffset": 19414,
                     "endColumn": 75,
-                    "endOffset": 19181
+                    "endOffset": 19485
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5257,11 +5314,11 @@
             },
             {
                 "to": {
-                    "startLine": 342,
+                    "startLine": 345,
                     "startColumn": 4,
-                    "startOffset": 19186,
+                    "startOffset": 19490,
                     "endColumn": 57,
-                    "endOffset": 19239
+                    "endOffset": 19543
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5276,11 +5333,11 @@
             },
             {
                 "to": {
-                    "startLine": 343,
+                    "startLine": 346,
                     "startColumn": 4,
-                    "startOffset": 19244,
+                    "startOffset": 19548,
                     "endColumn": 75,
-                    "endOffset": 19315
+                    "endOffset": 19619
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5295,11 +5352,11 @@
             },
             {
                 "to": {
-                    "startLine": 344,
+                    "startLine": 347,
                     "startColumn": 4,
-                    "startOffset": 19320,
+                    "startOffset": 19624,
                     "endColumn": 50,
-                    "endOffset": 19366
+                    "endOffset": 19670
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5314,11 +5371,11 @@
             },
             {
                 "to": {
-                    "startLine": 345,
+                    "startLine": 348,
                     "startColumn": 4,
-                    "startOffset": 19371,
+                    "startOffset": 19675,
                     "endColumn": 60,
-                    "endOffset": 19427
+                    "endOffset": 19731
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5333,11 +5390,11 @@
             },
             {
                 "to": {
-                    "startLine": 346,
+                    "startLine": 349,
                     "startColumn": 4,
-                    "startOffset": 19432,
+                    "startOffset": 19736,
                     "endColumn": 55,
-                    "endOffset": 19483
+                    "endOffset": 19787
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5352,11 +5409,11 @@
             },
             {
                 "to": {
-                    "startLine": 347,
+                    "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 19488,
+                    "startOffset": 19792,
                     "endColumn": 61,
-                    "endOffset": 19545
+                    "endOffset": 19849
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5371,11 +5428,11 @@
             },
             {
                 "to": {
-                    "startLine": 348,
+                    "startLine": 351,
                     "startColumn": 4,
-                    "startOffset": 19550,
+                    "startOffset": 19854,
                     "endColumn": 53,
-                    "endOffset": 19599
+                    "endOffset": 19903
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5390,11 +5447,11 @@
             },
             {
                 "to": {
-                    "startLine": 349,
+                    "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 19604,
+                    "startOffset": 19908,
                     "endColumn": 81,
-                    "endOffset": 19681
+                    "endOffset": 19985
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5409,11 +5466,11 @@
             },
             {
                 "to": {
-                    "startLine": 350,
+                    "startLine": 353,
                     "startColumn": 4,
-                    "startOffset": 19686,
+                    "startOffset": 19990,
                     "endColumn": 65,
-                    "endOffset": 19747
+                    "endOffset": 20051
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5428,11 +5485,11 @@
             },
             {
                 "to": {
-                    "startLine": 351,
+                    "startLine": 354,
                     "startColumn": 4,
-                    "startOffset": 19752,
+                    "startOffset": 20056,
                     "endColumn": 78,
-                    "endOffset": 19826
+                    "endOffset": 20130
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5447,11 +5504,11 @@
             },
             {
                 "to": {
-                    "startLine": 352,
+                    "startLine": 355,
                     "startColumn": 4,
-                    "startOffset": 19831,
+                    "startOffset": 20135,
                     "endColumn": 58,
-                    "endOffset": 19885
+                    "endOffset": 20189
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5466,11 +5523,11 @@
             },
             {
                 "to": {
-                    "startLine": 353,
+                    "startLine": 356,
                     "startColumn": 4,
-                    "startOffset": 19890,
+                    "startOffset": 20194,
                     "endColumn": 60,
-                    "endOffset": 19946
+                    "endOffset": 20250
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5485,11 +5542,11 @@
             },
             {
                 "to": {
-                    "startLine": 354,
+                    "startLine": 357,
                     "startColumn": 4,
-                    "startOffset": 19951,
+                    "startOffset": 20255,
                     "endColumn": 55,
-                    "endOffset": 20002
+                    "endOffset": 20306
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5504,11 +5561,11 @@
             },
             {
                 "to": {
-                    "startLine": 355,
+                    "startLine": 358,
                     "startColumn": 4,
-                    "startOffset": 20007,
+                    "startOffset": 20311,
                     "endColumn": 56,
-                    "endOffset": 20059
+                    "endOffset": 20363
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5523,11 +5580,11 @@
             },
             {
                 "to": {
-                    "startLine": 356,
+                    "startLine": 359,
                     "startColumn": 4,
-                    "startOffset": 20064,
+                    "startOffset": 20368,
                     "endColumn": 56,
-                    "endOffset": 20116
+                    "endOffset": 20420
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5542,11 +5599,11 @@
             },
             {
                 "to": {
-                    "startLine": 357,
+                    "startLine": 360,
                     "startColumn": 4,
-                    "startOffset": 20121,
+                    "startOffset": 20425,
                     "endColumn": 57,
-                    "endOffset": 20174
+                    "endOffset": 20478
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5561,11 +5618,11 @@
             },
             {
                 "to": {
-                    "startLine": 358,
+                    "startLine": 361,
                     "startColumn": 4,
-                    "startOffset": 20179,
+                    "startOffset": 20483,
                     "endColumn": 64,
-                    "endOffset": 20239
+                    "endOffset": 20543
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5580,11 +5637,11 @@
             },
             {
                 "to": {
-                    "startLine": 359,
+                    "startLine": 362,
                     "startColumn": 4,
-                    "startOffset": 20244,
+                    "startOffset": 20548,
                     "endColumn": 56,
-                    "endOffset": 20296
+                    "endOffset": 20600
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5599,11 +5656,11 @@
             },
             {
                 "to": {
-                    "startLine": 360,
+                    "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 20301,
+                    "startOffset": 20605,
                     "endColumn": 62,
-                    "endOffset": 20359
+                    "endOffset": 20663
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5618,11 +5675,11 @@
             },
             {
                 "to": {
-                    "startLine": 361,
+                    "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 20364,
+                    "startOffset": 20668,
                     "endColumn": 56,
-                    "endOffset": 20416
+                    "endOffset": 20720
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5637,11 +5694,11 @@
             },
             {
                 "to": {
-                    "startLine": 362,
+                    "startLine": 365,
                     "startColumn": 4,
-                    "startOffset": 20421,
+                    "startOffset": 20725,
                     "endColumn": 58,
-                    "endOffset": 20475
+                    "endOffset": 20779
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5656,11 +5713,11 @@
             },
             {
                 "to": {
-                    "startLine": 363,
+                    "startLine": 366,
                     "startColumn": 4,
-                    "startOffset": 20480,
+                    "startOffset": 20784,
                     "endColumn": 55,
-                    "endOffset": 20531
+                    "endOffset": 20835
                 },
                 "from": {
                     "file": "C:\\Users\\soojin\\.android\\build-cache\\dac383a31aa8c51976df357c0fb1b02817887ded\\output\\res\\values-ko\\values-ko.xml",
@@ -5675,11 +5732,11 @@
             },
             {
                 "to": {
-                    "startLine": 364,
+                    "startLine": 367,
                     "startColumn": 4,
-                    "startOffset": 20536,
+                    "startOffset": 20840,
                     "endColumn": 58,
-                    "endOffset": 20590
+                    "endOffset": 20894
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5694,11 +5751,11 @@
             },
             {
                 "to": {
-                    "startLine": 365,
+                    "startLine": 368,
                     "startColumn": 4,
-                    "startOffset": 20595,
+                    "startOffset": 20899,
                     "endColumn": 46,
-                    "endOffset": 20637
+                    "endOffset": 20941
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5713,11 +5770,11 @@
             },
             {
                 "to": {
-                    "startLine": 366,
+                    "startLine": 369,
                     "startColumn": 4,
-                    "startOffset": 20642,
+                    "startOffset": 20946,
                     "endColumn": 58,
-                    "endOffset": 20696
+                    "endOffset": 21000
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5732,11 +5789,11 @@
             },
             {
                 "to": {
-                    "startLine": 367,
+                    "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 20701,
+                    "startOffset": 21005,
                     "endColumn": 48,
-                    "endOffset": 20745
+                    "endOffset": 21049
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5751,11 +5808,11 @@
             },
             {
                 "to": {
-                    "startLine": 368,
+                    "startLine": 371,
                     "startColumn": 4,
-                    "startOffset": 20750,
+                    "startOffset": 21054,
                     "endColumn": 52,
-                    "endOffset": 20798
+                    "endOffset": 21102
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5770,11 +5827,11 @@
             },
             {
                 "to": {
-                    "startLine": 369,
+                    "startLine": 372,
                     "startColumn": 4,
-                    "startOffset": 20803,
+                    "startOffset": 21107,
                     "endColumn": 95,
-                    "endOffset": 20894
+                    "endOffset": 21198
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5789,11 +5846,11 @@
             },
             {
                 "to": {
-                    "startLine": 370,
+                    "startLine": 373,
                     "startColumn": 4,
-                    "startOffset": 20899,
+                    "startOffset": 21203,
                     "endColumn": 61,
-                    "endOffset": 20956
+                    "endOffset": 21260
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5808,11 +5865,11 @@
             },
             {
                 "to": {
-                    "startLine": 371,
+                    "startLine": 374,
                     "startColumn": 4,
-                    "startOffset": 20961,
+                    "startOffset": 21265,
                     "endColumn": 57,
-                    "endOffset": 21014
+                    "endOffset": 21318
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5827,11 +5884,11 @@
             },
             {
                 "to": {
-                    "startLine": 372,
+                    "startLine": 375,
                     "startColumn": 4,
-                    "startOffset": 21019,
+                    "startOffset": 21323,
                     "endColumn": 55,
-                    "endOffset": 21070
+                    "endOffset": 21374
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5846,11 +5903,11 @@
             },
             {
                 "to": {
-                    "startLine": 373,
+                    "startLine": 376,
                     "startColumn": 4,
-                    "startOffset": 21075,
+                    "startOffset": 21379,
                     "endColumn": 62,
-                    "endOffset": 21133
+                    "endOffset": 21437
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5865,11 +5922,11 @@
             },
             {
                 "to": {
-                    "startLine": 374,
+                    "startLine": 377,
                     "startColumn": 4,
-                    "startOffset": 21138,
+                    "startOffset": 21442,
                     "endColumn": 55,
-                    "endOffset": 21189
+                    "endOffset": 21493
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5884,11 +5941,11 @@
             },
             {
                 "to": {
-                    "startLine": 375,
+                    "startLine": 378,
                     "startColumn": 4,
-                    "startOffset": 21194,
+                    "startOffset": 21498,
                     "endColumn": 60,
-                    "endOffset": 21250
+                    "endOffset": 21554
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5903,11 +5960,11 @@
             },
             {
                 "to": {
-                    "startLine": 376,
+                    "startLine": 379,
                     "startColumn": 4,
-                    "startOffset": 21255,
+                    "startOffset": 21559,
                     "endColumn": 51,
-                    "endOffset": 21302
+                    "endOffset": 21606
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5922,11 +5979,11 @@
             },
             {
                 "to": {
-                    "startLine": 377,
+                    "startLine": 380,
                     "startColumn": 4,
-                    "startOffset": 21307,
+                    "startOffset": 21611,
                     "endColumn": 54,
-                    "endOffset": 21357
+                    "endOffset": 21661
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5941,11 +5998,11 @@
             },
             {
                 "to": {
-                    "startLine": 378,
+                    "startLine": 381,
                     "startColumn": 4,
-                    "startOffset": 21362,
+                    "startOffset": 21666,
                     "endColumn": 51,
-                    "endOffset": 21409
+                    "endOffset": 21713
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5960,11 +6017,11 @@
             },
             {
                 "to": {
-                    "startLine": 379,
+                    "startLine": 382,
                     "startColumn": 4,
-                    "startOffset": 21414,
+                    "startOffset": 21718,
                     "endColumn": 103,
-                    "endOffset": 21513
+                    "endOffset": 21817
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5979,11 +6036,11 @@
             },
             {
                 "to": {
-                    "startLine": 380,
+                    "startLine": 383,
                     "startColumn": 4,
-                    "startOffset": 21518,
+                    "startOffset": 21822,
                     "endColumn": 59,
-                    "endOffset": 21573
+                    "endOffset": 21877
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -5998,11 +6055,11 @@
             },
             {
                 "to": {
-                    "startLine": 381,
+                    "startLine": 384,
                     "startColumn": 4,
-                    "startOffset": 21578,
+                    "startOffset": 21882,
                     "endColumn": 93,
-                    "endOffset": 21667
+                    "endOffset": 21971
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",
@@ -6017,11 +6074,11 @@
             },
             {
                 "to": {
-                    "startLine": 382,
+                    "startLine": 385,
                     "startColumn": 4,
-                    "startOffset": 21672,
+                    "startOffset": 21976,
                     "endColumn": 46,
-                    "endOffset": 21714
+                    "endOffset": 22018
                 },
                 "from": {
                     "file": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\values-ko\\settings_trans.xml",

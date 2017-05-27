@@ -27,6 +27,14 @@
 
 		<activity
 			android:name="com.mobileapp.joyrhythm.MenuHome">
+			<intent-filter>
+				<action android:name="android.intent.action.VIEW" />
+				<category android:name="android.intent.category.DEFAULT" />
+				<category android:name="android.intent.category.BROWSABLE" />
+
+				<data android:scheme="@string/kakao_scheme"
+					android:host="@string/kakaolink_host" />
+			</intent-filter>
 		</activity>
 
 		<activity
@@ -143,7 +151,8 @@
 			android:value="59e14d589ff9d1df3d7128e3ca7592a5" />
 
 
-		<receiver android:name="com.mobileapp.joyrhythm.NotificationReciever"></receiver>
+		<receiver android:name="com.mobileapp.joyrhythm.NotificationReciever">
+		</receiver>
 
 	</application>
 </manifest>

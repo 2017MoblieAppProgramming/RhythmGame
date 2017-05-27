@@ -17,6 +17,9 @@ import android.view.View.OnFocusChangeListener;
 import android.view.View.OnTouchListener;
 import android.widget.*;
 
+import com.kakao.kakaolink.KakaoLink;
+import com.kakao.kakaolink.KakaoTalkLinkMessageBuilder;
+import com.kakao.util.KakaoParameterException;
 import com.mobileapp.joyrhythm.tools.Tools;
 import com.mobileapp.joyrhythm.tools.ToolsTracker;
 import com.mobileapp.joyrhythm.tools.ToolsUpdateTask;
@@ -40,6 +43,7 @@ public class MenuHome extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Tools.setContext(this);
+
 
         // Startup checks
         if (Tools.getBooleanSetting(R.string.resetSettings, R.string.resetSettingsDefault)) {
@@ -315,7 +319,25 @@ public class MenuHome extends Activity {
 			v.vibrate(20);
 		}
 	}
-	
+
+	public void shareKakao(){
+		try {
+			final KakaoLink kakaoLink = KakaoLink.getKakaoLink(this);
+			final KakaoTalkLinkMessageBuilder kakaoBuilder = kakaoLink.createKakaoTalkLinkMessageBuilder();
+
+			kakaoBuilder.addText("카카오링크 테스트");
+            /*이미지 가로/세로 사이즈는 80px 보다 커야하며, 이미지 용량은 500kb 이하로 제한된다.*/
+			String url = "https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_xbLYtIvUAhUEkJQKHaWmBSQQjRwIBw&url=http%3A%2F%2Fwww.myiconfinder.com%2Ficon%2Fconsole-control-game-games-joy-joystick-manipulator-joypad-pad-joy-color-4-flat%2F2421&psig=AFQjCNGilwX3CoypOmq4H9-LGMq2ID8tcw&ust=1495814307168093";
+			kakaoBuilder.addImage(url, 512, 512);
+    		kakaoBuilder.addAppButton("Go to Joy Rhythm");
+
+            /*메시지 발송*/
+			kakaoLink.sendMessage(kakaoBuilder, this);
+		} catch (KakaoParameterException e){
+			e.printStackTrace();
+		}
+	}
+
 	private void setupLayout() {
 		setContentView(R.layout.main);
 		setVolumeControlStream(AudioManager.STREAM_MUSIC); // To control media volume at all times
@@ -429,14 +451,11 @@ public class MenuHome extends Activity {
 			}
 		});
 		
-		// Settings button
-		TextView settings_b = (TextView) findViewById(R.id.settings);
-		settings_b.setOnClickListener(new OnClickListener() {
+		// Share button
+		TextView shareButton = (TextView) findViewById(R.id.sharebutton);
+		shareButton.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
-				vibrate();
-				Intent i = new Intent();
-				i.setClass(MenuHome.this, MenuSettings.class);
-				startActivity(i);
+				shareKakao();
 			}
 		});
 		
@@ -458,6 +477,17 @@ public class MenuHome extends Activity {
 				vibrate();
 				//backgroundDataUncheck();
 				finish();
+			}
+		});
+
+		// Settings button
+		TextView settings_b = (TextView) findViewById(R.id.settings);
+		settings_b.setOnClickListener(new OnClickListener() {
+			public void onClick(View v) {
+				vibrate();
+				Intent i = new Intent();
+				i.setClass(MenuHome.this, MenuSettings.class);
+				startActivity(i);
 			}
 		});
 		
