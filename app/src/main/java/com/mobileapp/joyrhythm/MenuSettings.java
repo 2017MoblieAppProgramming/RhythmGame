@@ -1,5 +1,6 @@
 package com.mobileapp.joyrhythm;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.preference.*;
 
@@ -11,6 +12,7 @@ public class MenuSettings extends PreferenceActivity {
 	@Override
 	protected void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
+/*		stopService(new Intent(getBaseContext(),MainMusicService.class));*/
 		Tools.setContext(this);
 		ToolsTracker.info("Opened settings");
 		addPreferencesFromResource(R.xml.settings);

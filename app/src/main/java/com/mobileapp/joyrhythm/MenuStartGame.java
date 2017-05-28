@@ -18,13 +18,14 @@ public class MenuStartGame implements Runnable {
 	private int availableDifficulty;
 	private String smFilePath;
 	private ProgressDialog loadingDialog;
+
 	
 	public static DataParser dp;
 	
 	public MenuStartGame(Activity a, String title) {
 		this.a = a;
 		this.title = title;
-		
+
 		defaultDifficulty = 0;
 		availableDifficulty = 0;
 		smFilePath = null;
@@ -36,6 +37,7 @@ public class MenuStartGame implements Runnable {
 		try {
 			if (loadingDialog != null && loadingDialog.isShowing()) loadingDialog.cancel();
 			a.setTitle(title);
+
 		} catch (IllegalArgumentException e) {
 			ToolsTracker.error("MenuStartGame.setTitle", e, smFilePath);
 			if (Tools.getBooleanSetting(R.string.debugLogCat, R.string.debugLogCatDefault)) {
@@ -246,9 +248,9 @@ public class MenuStartGame implements Runnable {
 		new Thread(this).start();
 	}
 	
-	public void startGameCheck() {
+	public int startGameCheck() {
 		if (!Tools.isMediaMounted()) {
-			return;
+			return -1;
 		}
 		
 		smFilePath = Tools.getSetting(R.string.smFilePath, R.string.smFilePathDefault);
@@ -258,6 +260,7 @@ public class MenuStartGame implements Runnable {
 					Tools.getString(R.string.MenuStartGame_select_music),
 					Tools.cancel_action,
 					-1);
+			return -1;
 		} else if (!(new File(smFilePath).exists())) {
 			Tools.error(
 					Tools.getString(R.string.MenuStartGame_missing_sm) +
@@ -265,8 +268,10 @@ public class MenuStartGame implements Runnable {
 					Tools.getString(R.string.MenuStartGame_choose_new),
 					Tools.cancel_action
 					);
+			return -1;
 		} else {
 			startGame();
 		}
+		return 0;
 	}
 }

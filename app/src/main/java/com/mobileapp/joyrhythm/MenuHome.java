@@ -43,7 +43,7 @@ public class MenuHome extends Activity {
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         Tools.setContext(this);
-
+		startService(new Intent(getBaseContext(),MainMusicService.class));
 
         // Startup checks
         if (Tools.getBooleanSetting(R.string.resetSettings, R.string.resetSettingsDefault)) {
@@ -54,14 +54,21 @@ public class MenuHome extends Activity {
 
         updateCheck();
         versionCheck();
-        showNotes();
+/*        showNotes();*/
 
         if (Tools.getBooleanSetting(R.string.additionalVibrations, R.string.additionalVibrationsDefault)) {
             v = ((Vibrator) getSystemService(Context.VIBRATOR_SERVICE));
             v.vibrate(300); // ready to rumble!
         }
 
+
     }
+
+    public void onPause(){
+		super.onPause();
+		stopService(new Intent(getBaseContext(),MainMusicService.class));
+	}
+
 
 
     // Startup Warnings
@@ -327,7 +334,7 @@ public class MenuHome extends Activity {
 
 			kakaoBuilder.addText("카카오링크 테스트");
             /*이미지 가로/세로 사이즈는 80px 보다 커야하며, 이미지 용량은 500kb 이하로 제한된다.*/
-			String url = "https://www.google.co.kr/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=0ahUKEwi_xbLYtIvUAhUEkJQKHaWmBSQQjRwIBw&url=http%3A%2F%2Fwww.myiconfinder.com%2Ficon%2Fconsole-control-game-games-joy-joystick-manipulator-joypad-pad-joy-color-4-flat%2F2421&psig=AFQjCNGilwX3CoypOmq4H9-LGMq2ID8tcw&ust=1495814307168093";
+			String url = "https://keleemorris.files.wordpress.com/2015/09/feel_the_rhythm_.jpg";
 			kakaoBuilder.addImage(url, 512, 512);
     		kakaoBuilder.addAppButton("Go to Joy Rhythm");
 
@@ -434,7 +441,10 @@ public class MenuHome extends Activity {
 		start_b.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				vibrate();
-				new MenuStartGame(MenuHome.this, title).startGameCheck();
+				stopService(new Intent(getBaseContext(),MainMusicService.class));
+				if(new MenuStartGame(MenuHome.this, title).startGameCheck()==-1){
+					startService(new Intent(getBaseContext(),MainMusicService.class));
+				}
 			}
 		});
 		
@@ -443,6 +453,7 @@ public class MenuHome extends Activity {
 		select_song_b.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				vibrate();
+				/*stopService(new Intent(getBaseContext(),MainMusicService.class));*/
 				if (Tools.isMediaMounted()) {
 					Intent i = new Intent();
 					i.setClass(MenuHome.this, MenuFileChooser.class);
@@ -455,6 +466,7 @@ public class MenuHome extends Activity {
 		TextView shareButton = (TextView) findViewById(R.id.sharebutton);
 		shareButton.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
+				stopService(new Intent(getBaseContext(),MainMusicService.class));
 				shareKakao();
 			}
 		});
@@ -463,6 +475,7 @@ public class MenuHome extends Activity {
 		TextView download_songs_b = (TextView) findViewById(R.id.download_songs);
 		download_songs_b.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
+				stopService(new Intent(getBaseContext(),MainMusicService.class));
 				vibrate();
 				if (Tools.isMediaMounted()) {
 					Tools.startWebsiteActivity(Tools.getString(R.string.Url_downloads));
@@ -474,6 +487,7 @@ public class MenuHome extends Activity {
 		TextView exit_b = (TextView) findViewById(R.id.exit);
 		exit_b.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
+				stopService(new Intent(getBaseContext(),MainMusicService.class));
 				vibrate();
 				//backgroundDataUncheck();
 				finish();
@@ -485,6 +499,7 @@ public class MenuHome extends Activity {
 		settings_b.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				vibrate();
+				/*stopService(new Intent(getBaseContext(),MainMusicService.class));*/
 				Intent i = new Intent();
 				i.setClass(MenuHome.this, MenuSettings.class);
 				startActivity(i);
@@ -536,6 +551,7 @@ public class MenuHome extends Activity {
 	@Override
 	public void onResume() {
 		super.onResume();
+		startService(new Intent(getBaseContext(),MainMusicService.class));
 		setupInitialFocus();
 	}
 	
@@ -557,6 +573,7 @@ public class MenuHome extends Activity {
 	protected void onDestroy() {
 		ToolsTracker.stopTracking();
 		super.onDestroy();
+		stopService(new Intent(getBaseContext(),MainMusicService.class));
 	}
 
 	private void nextAutoPlay() {

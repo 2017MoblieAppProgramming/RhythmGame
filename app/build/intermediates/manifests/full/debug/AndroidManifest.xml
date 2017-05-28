@@ -36,6 +36,11 @@
                     android:host="@string/kakaolink_host"
                     android:scheme="@string/kakao_scheme" />
             </intent-filter>
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
         </activity>
         <activity
             android:name="com.mobileapp.joyrhythm.tools.ToolsDownloader"
@@ -135,11 +140,13 @@
         <activity
             android:name="com.mobileapp.joyrhythm.kakao.LoginActivity"
             android:theme="@style/Theme.NoBackground" >
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            <!--
+    		<intent-filter>
+			<action	android:name="android.intent.action.MAIN" />
+			<category android:name="android.intent.category.LAUNCHER" />
+		</intent-filter>
+            -->
         </activity>
 
         <meta-data
@@ -148,6 +155,13 @@
 
         <receiver android:name="com.mobileapp.joyrhythm.NotificationReciever" >
         </receiver>
+
+        <service android:name="com.mobileapp.joyrhythm.MainMusicService" >
+            <intent-filter>
+                <action android:name="android.intent.action.RESPOND_VIA_MESSAGE" >
+                </action>
+            </intent-filter>
+        </service>
 
         <activity
             android:name="com.kakao.auth.authorization.authcode.KakaoWebViewActivity"

@@ -177,7 +177,8 @@ public final class R {
         public static final int unzipper=0x7f030009;
     }
     public static final class raw {
-        public static final int samples=0x7f050000;
+        public static final int nine_point_eight=0x7f050000;
+        public static final int samples=0x7f050001;
     }
     public static final class string {
         public static final int Accuracy_almost=0x7f070000;

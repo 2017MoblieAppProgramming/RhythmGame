@@ -3,15 +3,6 @@
 
     <item
         is-multidex="true"
-        jar="C:\Users\soojin\.android\build-cache\994ba76ffba42bfcd60e392693fc57dd5c77bfe5\output\jars\classes.jar"
-        jumboMode="true"
-        optimize="true"
-        revision="25.0.2"
-        sha1="dc8094ca7bbf1eb4388986cdd895e9786e94de3f">
-        <dex dex="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\10\classes_b0be1f707f23969014891568c78664276796aad6\classes.dex" />
-    </item>
-    <item
-        is-multidex="true"
         jar="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
         jumboMode="true"
         optimize="true"
@@ -52,7 +43,7 @@
         jumboMode="true"
         optimize="true"
         revision="25.0.2"
-        sha1="b43593617bb3230d0a378e8d4df0ecd8806ed6c8">
+        sha1="14079729df713db7ce89dfe5c91aa7f356d08616">
         <dex dex="D:\2017Android Studio Project\RhythmGame\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_2636d151ffc9869e4ca3aa74890e41364a9f424c\classes.dex" />
     </item>
 
