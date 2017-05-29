@@ -2,5 +2,9 @@
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     }
 ]

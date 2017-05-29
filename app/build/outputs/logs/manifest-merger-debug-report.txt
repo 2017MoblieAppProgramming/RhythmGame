@@ -1,20 +1,20 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:2:1-168:12
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:2:1-168:12
 	package
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:4:2-35
-		INJECTED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml
-		INJECTED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:4:2-35
+		INJECTED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml
 	android:versionCode
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:5:2-26
-		INJECTED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml
-		INJECTED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:5:2-26
+		INJECTED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:3:2-60
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:3:2-60
 	android:installLocation
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:7:2-32
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:7:2-32
 uses-sdk
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:8:2-11:4
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:8:2-11:4
 MERGED from [com.kakao.sdk:usermgmt:1.2.2] C:\Users\soojin\.android\build-cache\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\output\AndroidManifest.xml:11:5-13:41
 MERGED from [com.kakao.sdk:auth:1.2.2] C:\Users\soojin\.android\build-cache\dac383a31aa8c51976df357c0fb1b02817887ded\output\AndroidManifest.xml:7:5-9:41
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\soojin\.android\build-cache\44669bdf16db98bbf30bfc84bbc665ced1cbd1e2\output\AndroidManifest.xml:21:5-23:60
@@ -29,31 +29,31 @@ MERGED from [com.kakao.sdk:util:1.2.2] C:\Users\soojin\.android\build-cache\5697
 	tools:overrideLibrary
 		ADDED from [com.android.support:support-fragment:25.3.1] C:\Users\soojin\.android\build-cache\44669bdf16db98bbf30bfc84bbc665ced1cbd1e2\output\AndroidManifest.xml:23:9-57
 	android:targetSdkVersion
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:10:3-32
-		INJECTED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml
-		INJECTED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:10:3-32
+		INJECTED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml
 	android:minSdkVersion
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:9:3-29
-		INJECTED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml
-		INJECTED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:9:3-29
+		INJECTED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml
 uses-permission#android.permission.INTERNET
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:12:2-63
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:12:2-63
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:12:19-61
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:12:19-61
 uses-permission#android.permission.VIBRATE
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:13:2-62
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:13:2-62
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:13:19-60
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:13:19-60
 uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:14:2-77
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:14:2-77
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:14:19-75
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:14:19-75
 uses-permission#android.permission.WAKE_LOCK
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:15:2-65
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:15:2-65
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:15:19-62
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:15:19-62
 application
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:19:2-167:16
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:19:2-167:16
 MERGED from [com.kakao.sdk:auth:1.2.2] C:\Users\soojin\.android\build-cache\dac383a31aa8c51976df357c0fb1b02817887ded\output\AndroidManifest.xml:11:5-24:19
 MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\soojin\.android\build-cache\44669bdf16db98bbf30bfc84bbc665ced1cbd1e2\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\soojin\.android\build-cache\fc6263962904f5408883fe26e5170ec0e6252e4c\output\AndroidManifest.xml:29:5-20
@@ -61,121 +61,121 @@ MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\soojin\.androi
 MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\soojin\.android\build-cache\9f163f60c09510189378bfacfedbc2d6ae7be334\output\AndroidManifest.xml:29:5-20
 MERGED from [com.android.support:support-compat:25.3.1] C:\Users\soojin\.android\build-cache\9664f8b36fa3c50e2ab17c5e39de993d3ecf01af\output\AndroidManifest.xml:29:5-20
 	android:enabled
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:21:3-25
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:21:3-25
 	android:label
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:25:3-35
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:25:3-35
 	android:hardwareAccelerated
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:23:3-37
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:23:3-37
 	android:allowBackup
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:22:3-29
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:22:3-29
 	android:icon
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:24:3-32
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:24:3-32
 	android:description
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:26:3-48
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:26:3-48
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:20:3-65
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:20:3-65
 activity#com.mobileapp.joyrhythm.MenuHome
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:28:3-42:14
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:28:3-42:14
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:29:4-51
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:29:4-51
 intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:30:4-37:20
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:30:4-37:20
 action#android.intent.action.VIEW
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:31:5-57
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:31:5-57
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:31:13-54
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:31:13-54
 category#android.intent.category.DEFAULT
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:32:5-64
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:32:5-64
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:32:15-61
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:32:15-61
 category#android.intent.category.BROWSABLE
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:33:5-66
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:33:5-66
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:33:15-63
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:33:15-63
 data
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:35:5-36:46
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:35:5-36:46
 	android:host
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:36:6-43
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:36:6-43
 	android:scheme
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:35:11-48
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:38:13-41:29
-action#android.intent.action.MAIN
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:39:17-69
-	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:39:25-66
-category#android.intent.category.LAUNCHER
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:40:17-77
-	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:40:27-74
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:35:11-48
 activity#com.mobileapp.joyrhythm.tools.ToolsDownloader
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:44:3-62:14
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:44:3-62:14
 	android:configChanges
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:46:4-65
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:46:4-65
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:45:4-64
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:45:4-64
 activity#com.mobileapp.joyrhythm.tools.ToolsUnzipperActivity
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:64:3-124:14
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:64:3-124:14
 	android:configChanges
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:66:4-65
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:66:4-65
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:65:4-70
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:65:4-70
 intent-filter#android.intent.action.MAIN+android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:67:4-75:20
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:67:4-75:20
+action#android.intent.action.MAIN
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:68:5-57
+	android:name
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:68:13-54
 activity#com.mobileapp.joyrhythm.MenuCreditsActivity
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:126:3-132:14
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:126:3-132:14
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:127:4-62
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:127:4-62
 intent-filter#.MenuCredits+android.intent.category.DEFAULT
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:128:4-131:20
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:128:4-131:20
 action#.MenuCredits
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:130:5-43
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:130:5-43
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:130:13-40
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:130:13-40
 activity#com.mobileapp.joyrhythm.MenuFileChooser
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:134:3-136:67
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:134:3-136:67
 	android:configChanges
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:136:4-65
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:136:4-65
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:135:4-58
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:135:4-58
 activity#com.mobileapp.joyrhythm.MenuSettings
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:137:3-66
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:137:3-66
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:137:13-64
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:137:13-64
 activity#com.mobileapp.joyrhythm.gui.GUIGame
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:139:3-143:6
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:139:3-143:6
 	android:configChanges
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:142:4-65
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:142:4-65
 	android:theme
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:141:4-45
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:141:4-45
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:140:4-54
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:140:4-54
 activity#com.mobileapp.joyrhythm.kakao.LoginActivity
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:145:3-152:14
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:145:3-152:14
 	android:theme
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:147:4-45
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:147:4-45
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:146:4-62
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:146:4-62
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:148:3-151:19
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:150:4-64
+	android:name
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:150:14-61
 meta-data#com.kakao.sdk.AppKey
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:154:3-155:55
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:154:3-155:55
 	android:value
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:155:4-52
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:155:4-52
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:154:14-49
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:154:14-49
 receiver#com.mobileapp.joyrhythm.NotificationReciever
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:157:3-158:14
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:157:3-158:14
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:157:13-72
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:157:13-72
 service#com.mobileapp.joyrhythm.MainMusicService
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:160:3-165:13
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:160:3-165:13
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:160:12-44
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:160:12-44
 intent-filter#android.intent.action.RESPOND_VIA_MESSAGE
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:161:4-164:20
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:161:4-164:20
 action#android.intent.action.RESPOND_VIA_MESSAGE
-ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:162:5-163:14
+ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:162:5-163:14
 	android:name
-		ADDED from D:\2017Android Studio Project\RhythmGame\app\src\main\AndroidManifest.xml:162:13-69
+		ADDED from C:\Users\soojin\Desktop\RhythmGame\app\src\main\AndroidManifest.xml:162:13-69
 activity#com.kakao.auth.authorization.authcode.KakaoWebViewActivity
 ADDED from [com.kakao.sdk:auth:1.2.2] C:\Users\soojin\.android\build-cache\dac383a31aa8c51976df357c0fb1b02817887ded\output\AndroidManifest.xml:12:9-23:20
 	android:label

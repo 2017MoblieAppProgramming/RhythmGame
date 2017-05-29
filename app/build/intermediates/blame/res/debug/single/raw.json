@@ -6,5 +6,13 @@
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\samples.zip",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\raw\\samples.zip"
+    },
+    {
+        "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\samples.zip",
+        "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\raw\\samples.zip"
+    },
+    {
+        "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\raw\\nine_point_eight.mp3",
+        "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\raw\\nine_point_eight.mp3"
     }
 ]

@@ -35,10 +35,10 @@
 				<data android:scheme="@string/kakao_scheme"
 					android:host="@string/kakaolink_host" />
 			</intent-filter>
-            <intent-filter>
+<!--            <intent-filter>
                 <action	android:name="android.intent.action.MAIN" />
                 <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
+            </intent-filter>-->
 		</activity>
 
 		<activity
@@ -145,10 +145,10 @@
 		<activity
 			android:name="com.mobileapp.joyrhythm.kakao.LoginActivity"
 			android:theme="@style/Theme.NoBackground">
-<!--		<intent-filter>
+		<intent-filter>
 			<action	android:name="android.intent.action.MAIN" />
 			<category android:name="android.intent.category.LAUNCHER" />
-		</intent-filter>-->
+		</intent-filter>
 		</activity>
 
 		<meta-data android:name="com.kakao.sdk.AppKey"

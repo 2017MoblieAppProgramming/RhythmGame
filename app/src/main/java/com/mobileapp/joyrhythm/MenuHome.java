@@ -428,7 +428,7 @@ public class MenuHome extends Activity {
 		
 		/*
 		// Background Data button
-		ImageView backgroundData = (ImageView) findViewById(R.id.backgroundData);
+		ImageView backgroundData = (ImageView) findViewById(R.id.backgroundData)f;
 		backgroundData.setOnClickListener(new OnClickListener() {
 			public void onClick(View v) {
 				showBackgroundData();

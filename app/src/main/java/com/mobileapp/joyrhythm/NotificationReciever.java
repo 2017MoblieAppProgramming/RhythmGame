@@ -13,9 +13,6 @@ package com.mobileapp.joyrhythm;
 
         import com.mobileapp.joyrhythm.kakao.LoginActivity;
 
-/**
- * Created by starapps on 1/24/2017.
- */
 public class NotificationReciever extends BroadcastReceiver {
     @Override
     public void onReceive(Context context, Intent intent) {

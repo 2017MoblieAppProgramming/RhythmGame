@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
+        "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\xml\\settings.xml"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\xml\\settings.xml",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\xml\\settings.xml"
     }

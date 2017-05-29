@@ -79,7 +79,7 @@ public final class R {
         public static final int beats_logo_beta_rotated=0x7f020004;
         public static final int beats_logo_beta_xlarge=0x7f020005;
         public static final int beats_logo_beta_xlarge_rotated=0x7f020006;
-        public static final int bg_blue=0x7f020007;
+        public static final int bg=0x7f020007;
         public static final int bg_white=0x7f020008;
         public static final int btn_x=0x7f020009;
         public static final int difficulty_header=0x7f02000a;
