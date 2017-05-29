@@ -2,6 +2,7 @@ package com.mobileapp.joyrhythm.gui;
 
 import java.io.File;
 import java.util.HashMap;
+import java.util.List;
 
 import android.app.Activity;
 import android.content.Context;
@@ -10,12 +11,17 @@ import android.content.res.Configuration;
 import android.graphics.*;
 import android.graphics.Bitmap.Config;
 import android.graphics.Region.Op;
+import android.hardware.Sensor;
+import android.hardware.SensorEvent;
+import android.hardware.SensorEventListener;
+import android.hardware.SensorManager;
 import android.media.AudioManager;
 import android.os.*;
 import android.util.Log;
 import android.util.SparseArray;
 import android.view.*;
 import android.os.Vibrator;
+import android.widget.Toast;
 
 import com.mobileapp.joyrhythm.DataParser;
 import com.mobileapp.joyrhythm.MenuStartGame;
@@ -25,16 +31,17 @@ import com.mobileapp.joyrhythm.Randomizer;
 import com.mobileapp.joyrhythm.tools.Tools;
 import com.mobileapp.joyrhythm.tools.ToolsTracker;
 
+
 public class GUIGame extends Activity {
-	
+
 	// TODO - MAJOR CLEANUP!!!
-	
+
 	private String title = "";
 	private GUIHandler h;
 	private DataParser dp;
 	private MusicService mp;
 	private GUIListeners listeners;
-	
+
 	private GameViewHandler mView;
 	private int orientation;
 	private boolean backgroundShow;
@@ -57,11 +64,55 @@ public class GUIGame extends Activity {
 	private int syncDuration;
 	private int manualOffset;
 	private int manualOGGOffset;
-	
+
+	//센서생성
+	private float sensorX;
+	private float sensorY;
+	private float sensorZ;
+	private SensorManager SM = null;
+	private List list;
+	private int sensorCheck;
+	private int pitch;
+
+	SensorEventListener sensor = new SensorEventListener() {
+		@Override
+		public void onSensorChanged(SensorEvent event) {
+			float[] values = event.values;
+
+			sensorX = values[0];
+			sensorY = values[1];
+			sensorZ = values[2];
+			if (sensorX>4){
+				sensorCheck = KeyEvent.KEYCODE_DPAD_LEFT;
+				pitch = GUIListeners.keyCode2Direction(sensorCheck);
+				h.onTouch_Down_One(pitch);
+			}else if (sensorX<-4){
+				sensorCheck = KeyEvent.KEYCODE_DPAD_RIGHT;
+				pitch = GUIListeners.keyCode2Direction(sensorCheck);
+				h.onTouch_Down_One(pitch);
+			}else if (sensorY<0){
+				sensorCheck = KeyEvent.KEYCODE_DPAD_UP;
+				pitch = GUIListeners.keyCode2Direction(sensorCheck);
+				h.onTouch_Down_One(pitch);
+			}else if (sensorZ<5){
+				sensorCheck = KeyEvent.KEYCODE_DPAD_DOWN;
+				pitch = GUIListeners.keyCode2Direction(sensorCheck);
+				h.onTouch_Down_One(pitch);
+			}else{
+				for (int i = 0; i < Tools.PITCHES; i++) {
+					h.onTouch_Up_One(i);
+				}
+			}
+		}
+
+		@Override
+		public void onAccuracyChanged(Sensor sensor, int accuracy) {}
+	};
+
 	private static final int ROTATABLE = 2;
-	
+
 	private GUIDrawingArea drawarea = new GUIDrawingArea() {
-		
+
 		private SparseArray<Bitmap> rsrcBitmaps = new SparseArray<Bitmap>();
 		@Override
 		public Bitmap getBitmap(String rsrc, int width, int height) {
@@ -82,7 +133,7 @@ public class GUIGame extends Activity {
 						loaded,
 						width, height,
 						true
-						);
+				);
 				rsrcBitmaps.put(rsrc.hashCode(), b);
 			}
 			return b;
@@ -95,12 +146,12 @@ public class GUIGame extends Activity {
 			}
 			rsrcBitmaps.clear();
 		}
-		
+
 		@Override
 		public int pitchToX(int pitch) { return h.pitchToX(pitch); }
 		@Override
-		public int timeToY(float time) { return h.timeToY(time); }	
-		
+		public int timeToY(float time) { return h.timeToY(time); }
+
 		@Override
 		public void setClip_screen(Canvas canvas) {
 			//canvas.clipRect(0, 0, canvas.getWidth(), canvas.getHeight(), Op.REPLACE);
@@ -119,34 +170,44 @@ public class GUIGame extends Activity {
 			}
 			int ymin, ymax, midpt;
 			switch (noteAppearance) {
-			case 1: //Hidden (appear, then disappear)
-				midpt = Tools.screen_h / 2 - Tools.button_h;
-				ymin = fallingDown ? 0     : (Tools.screen_h - midpt);
-				ymax = fallingDown ? midpt : Tools.screen_h;
-				break;
-			case 2: //Sudden (appear very late)
-				midpt = Tools.screen_h / 2 - Tools.button_h;
-				ymin = fallingDown ? midpt          : 0;
-				ymax = fallingDown ? Tools.screen_h : (Tools.screen_h - midpt);
-				break;
-			case 3: // Invisible (never appear)
-				ymin = -1;
-				ymax = -1;
-				break;
-			case 0: default: //Visible (normal)
-				ymin = 0;
-				ymax = Tools.screen_h;
-				break;
+				case 1: //Hidden (appear, then disappear)
+					midpt = Tools.screen_h / 2 - Tools.button_h;
+					ymin = fallingDown ? 0     : (Tools.screen_h - midpt);
+					ymax = fallingDown ? midpt : Tools.screen_h;
+					break;
+				case 2: //Sudden (appear very late)
+					midpt = Tools.screen_h / 2 - Tools.button_h;
+					ymin = fallingDown ? midpt          : 0;
+					ymax = fallingDown ? Tools.screen_h : (Tools.screen_h - midpt);
+					break;
+				case 3: // Invisible (never appear)
+					ymin = -1;
+					ymax = -1;
+					break;
+				case 0: default: //Visible (normal)
+					ymin = 0;
+					ymax = Tools.screen_h;
+					break;
 			}
 			canvas.clipRect(0, ymin, Tools.screen_w, ymax, Op.REPLACE);
 		}
 	};
-	
+
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
 		Tools.setContext(this);
 		System.gc(); // Request for garbage collection and hope it runs before updating starts
+		// Get settings
+		//센서추가
+		SM = (SensorManager)getSystemService(SENSOR_SERVICE);
+		list = SM.getSensorList(Sensor.TYPE_ACCELEROMETER);
+		if(list.size()>0){
+			SM.registerListener(sensor, (Sensor) list.get(0), SensorManager.SENSOR_DELAY_NORMAL);
+		}else{
+			Toast.makeText(getBaseContext(), "Error: No Accelerometer.", Toast.LENGTH_LONG).show();
+		}
+		// Request for garbage collection and hope it runs before updating starts
 		// Get settings
 		/*
 		int priority = Integer.valueOf(

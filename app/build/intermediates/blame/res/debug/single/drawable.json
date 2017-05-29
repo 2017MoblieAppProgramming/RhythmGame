@@ -20,20 +20,48 @@
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_cancel_button_background.xml"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beats_logo_beta_xlarge.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\beats_logo_beta_xlarge.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_success.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_success.png"
+    },
+    {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_d_pad.png",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_d_pad.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beats_logo_beta_xlarge_rotated.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\beats_logo_beta_xlarge_rotated.png"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_step_down.png",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_step_down.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_profile_boxbg.9.png",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\4ceca6bfdad49a0649a2f4003a909e242cc825c5\\output\\res\\drawable\\kakao_profile_boxbg.9.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\autoplay.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\autoplay.png"
+    },
+    {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_symbol.png",
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_login_symbol.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_curved_r_down.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_curved_r_down.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_osu.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_osu.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_account_button_background.xml",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\4ceca6bfdad49a0649a2f4003a909e242cc825c5\\output\\res\\drawable\\kakao_account_button_background.xml"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beats_logo_beta_rotated.png",
@@ -44,8 +72,20 @@
         "source": "C:\\Users\\soojin\\.android\\build-cache\\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\\output\\res\\drawable\\selector_login_button.xml"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_osu.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_osu.png"
+    },
+    {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_difficulty.png",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_difficulty.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\account.png",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\fd513954d30d27df3499e270cd1d8ba2c0a596eb\\output\\res\\drawable\\account.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white.jpg",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\bg_white.jpg"
     },
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\talk.png",
@@ -60,12 +100,20 @@
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_prev.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_default_profile_image.png",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\4ceca6bfdad49a0649a2f4003a909e242cc825c5\\output\\res\\drawable\\kakao_default_profile_image.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_curved_down.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_curved_down.png"
     },
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beats_logo_beta_xlarge_rotated.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\beats_logo_beta_xlarge_rotated.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_standard_up.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_standard_up.png"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_del.png",
@@ -84,6 +132,10 @@
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_login_bar.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_run.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_run.png"
+    },
+    {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_warning.png",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_warning.png"
     },
@@ -96,6 +148,10 @@
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_default_profile_image.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_button_background.9.png",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\4ceca6bfdad49a0649a2f4003a909e242cc825c5\\output\\res\\drawable\\kakao_login_button_background.9.png"
+    },
+    {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beats_logo_beta_xlarge.png",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\beats_logo_beta_xlarge.png"
     },
@@ -104,12 +160,28 @@
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\beats_logo_beta_xlarge.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_folder_parent.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_folder_parent.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_del.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_del.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_default_profile_image.png",
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_default_profile_image.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_difficulty.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_difficulty.png"
+    },
+    {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_text.png",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_text.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\difficulty_header.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\difficulty_header.png"
     },
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_osu_rand.png",
@@ -124,12 +196,24 @@
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_run.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_url.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_url.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_account_logo.png",
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_account_logo.png"
     },
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\story.png",
         "source": "C:\\Users\\soojin\\.android\\build-cache\\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\\output\\res\\drawable\\story.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_prev.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_prev.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_step_up.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_step_up.png"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg_white.jpg",
@@ -144,6 +228,14 @@
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\autoplay.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\missing_graphics.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\missing_graphics.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_next.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_next.png"
+    },
+    {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_standard_up.png",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_standard_up.png"
     },
@@ -154,6 +246,14 @@
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_symbol.png",
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_login_symbol.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_dwi.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_dwi.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_step_down.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_step_down.png"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\story.png",
@@ -168,6 +268,18 @@
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_small.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beats_logo_beta.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\beats_logo_beta.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\bg.jpg",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\bg.jpg"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\talk.png",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\fd513954d30d27df3499e270cd1d8ba2c0a596eb\\output\\res\\drawable\\talk.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_osu.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_osu.png"
     },
@@ -176,12 +288,28 @@
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_curved_r_down.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_d_pad.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_d_pad.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beats_logo_beta_rotated.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\beats_logo_beta_rotated.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_x.png",
         "source": "C:\\Users\\soojin\\.android\\build-cache\\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\\output\\res\\drawable\\btn_x.png"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beats_logo_beta_xlarge_rotated.png",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\beats_logo_beta_xlarge_rotated.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_symbol.png",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\4ceca6bfdad49a0649a2f4003a909e242cc825c5\\output\\res\\drawable\\kakao_login_symbol.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_cancel_button_background.xml",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\4ceca6bfdad49a0649a2f4003a909e242cc825c5\\output\\res\\drawable\\kakao_cancel_button_background.xml"
     },
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_zip.png",
@@ -220,6 +348,14 @@
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\missing_graphics.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_bar.png",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\4ceca6bfdad49a0649a2f4003a909e242cc825c5\\output\\res\\drawable\\kakao_login_bar.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\btn_x.png",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\fd513954d30d27df3499e270cd1d8ba2c0a596eb\\output\\res\\drawable\\btn_x.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_button_background.9.png",
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_login_button_background.9.png"
     },
@@ -244,6 +380,10 @@
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_next.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_text.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_text.png"
+    },
+    {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_folder.png",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_folder.png"
     },
@@ -264,8 +404,28 @@
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_standard_up.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_fullscreen.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_fullscreen.png"
+    },
+    {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_login_bar.png",
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_login_bar.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_osu_rand.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_osu_rand.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_curved_down.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_curved_down.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_account_logo.png",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\4ceca6bfdad49a0649a2f4003a909e242cc825c5\\output\\res\\drawable\\kakao_account_logo.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_editable_profile.png",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\4ceca6bfdad49a0649a2f4003a909e242cc825c5\\output\\res\\drawable\\kakao_editable_profile.png"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharekakao.png",
@@ -274,6 +434,10 @@
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_standard_down.png",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_standard_down.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_standard_down.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_standard_down.png"
     },
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_warning.png",
@@ -292,6 +456,10 @@
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_run.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_warning.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_warning.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_curved_up.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_curved_up.png"
     },
@@ -308,6 +476,10 @@
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\beats_logo_beta_rotated.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nothing.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\nothing.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\nothing.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\nothing.png"
     },
@@ -318,6 +490,10 @@
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_fullscreen.png",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_fullscreen.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_small.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_small.png"
     },
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_login_button.xml",
@@ -332,12 +508,20 @@
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\beats_logo.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\sharekakao.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\sharekakao.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_step_up.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_step_up.png"
     },
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beats_logo_beta.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\beats_logo_beta.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_curved_r_up.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_curved_r_up.png"
     },
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_standard_down.png",
@@ -356,12 +540,20 @@
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_url.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\beats_logo.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\beats_logo.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_fullscreen.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_fullscreen.png"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fail.png",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_fail.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\selector_login_button.xml",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\fd513954d30d27df3499e270cd1d8ba2c0a596eb\\output\\res\\drawable\\selector_login_button.xml"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_zip.png",
@@ -372,8 +564,16 @@
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_editable_profile.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\story.png",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\fd513954d30d27df3499e270cd1d8ba2c0a596eb\\output\\res\\drawable\\story.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_next.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\mode_next.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_zip.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_zip.png"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\mode_osu.png",
@@ -392,12 +592,32 @@
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\drawable\\kakao_login_button_background.9.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_fail.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_fail.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_text.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_text.png"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_sm.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_sm.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_del.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_del.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\tapbox_curved_up.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\tapbox_curved_up.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_osu.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_osu.png"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\icon_folder.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable\\icon_folder.png"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\kakao_profile_boxbg.9.png",

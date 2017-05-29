@@ -1,5 +1,9 @@
 [
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi\\icon.png",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\drawable-ldpi\\icon.png"
     },

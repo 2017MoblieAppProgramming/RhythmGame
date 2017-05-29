@@ -1,23 +1,11 @@
 [
     {
-        "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kakao_internal_login_activity.xml",
-        "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\layout\\kakao_internal_login_activity.xml"
-    },
-    {
-        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
-        "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\layout\\main.xml"
-    },
-    {
-        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_login_item.xml",
-        "source": "C:\\Users\\soojin\\.android\\build-cache\\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\\output\\res\\layout\\layout_login_item.xml"
-    },
-    {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
         "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\layout\\main.xml"
     },
     {
-        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_login_dialog.xml",
-        "source": "C:\\Users\\soojin\\.android\\build-cache\\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\\output\\res\\layout\\layout_login_dialog.xml"
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kakao_login_layout.xml",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\4ceca6bfdad49a0649a2f4003a909e242cc825c5\\output\\res\\layout\\kakao_login_layout.xml"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_login_item.xml",
@@ -32,20 +20,80 @@
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\layout\\kakao_internal_login_activity.xml"
     },
     {
-        "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notes.xml",
-        "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\layout\\notes.xml"
-    },
-    {
-        "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_login_dialog.xml",
-        "source": "C:\\Users\\soojin\\.android\\build-cache\\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\\output\\res\\layout\\layout_login_dialog.xml"
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_login_item.xml",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\fd513954d30d27df3499e270cd1d8ba2c0a596eb\\output\\res\\layout\\layout_login_item.xml"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kakao_webview.xml",
         "source": "C:\\Users\\soojin\\.android\\build-cache\\dac383a31aa8c51976df357c0fb1b02817887ded\\output\\res\\layout\\activity_kakao_webview.xml"
     },
     {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose.xml",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\layout\\choose.xml"
+    },
+    {
+        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notes.xml",
+        "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\layout\\notes.xml"
+    },
+    {
+        "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kakao_internal_login_activity.xml",
+        "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\layout\\kakao_internal_login_activity.xml"
+    },
+    {
+        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\layout\\main.xml"
+    },
+    {
+        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_login_item.xml",
+        "source": "C:\\Users\\soojin\\.android\\build-cache\\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\\output\\res\\layout\\layout_login_item.xml"
+    },
+    {
+        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_login_dialog.xml",
+        "source": "C:\\Users\\soojin\\.android\\build-cache\\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\\output\\res\\layout\\layout_login_dialog.xml"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notes.xml",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\layout\\notes.xml"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notes.xml",
+        "source": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\src\\main\\res\\layout\\notes.xml"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unzipper.xml",
+        "source": "D:\\android_workspace_2017\\RhythmGame\\app\\src\\main\\res\\layout\\unzipper.xml"
+    },
+    {
+        "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_login_dialog.xml",
+        "source": "C:\\Users\\soojin\\.android\\build-cache\\af2d2a03aa24320202d1c3e8b45ed0955e5dda3c\\output\\res\\layout\\layout_login_dialog.xml"
+    },
+    {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\unzipper.xml",
         "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\layout\\unzipper.xml"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_login_dialog.xml",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\fd513954d30d27df3499e270cd1d8ba2c0a596eb\\output\\res\\layout\\layout_login_dialog.xml"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_kakao_webview.xml",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\83dbaf87a5928538a5782a1fd90048feeed74266\\output\\res\\layout\\activity_kakao_webview.xml"
+    },
+    {
+        "merged": "D:\\android_workspace_2017\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kakao_internal_login_activity.xml",
+        "source": "C:\\Users\\승화\\.android\\build-cache\\4ceca6bfdad49a0649a2f4003a909e242cc825c5\\output\\res\\layout\\kakao_internal_login_activity.xml"
     },
     {
         "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kakao_login_layout.xml",
@@ -62,14 +110,6 @@
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\kakao_login_layout.xml",
         "source": "C:\\Users\\soojin\\.android\\build-cache\\569766987ff00be09fa89828a3b873bd96a1ddc2\\output\\res\\layout\\kakao_login_layout.xml"
-    },
-    {
-        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notes.xml",
-        "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\layout\\notes.xml"
-    },
-    {
-        "merged": "D:\\2017Android Studio Project\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_login.xml",
-        "source": "D:\\2017Android Studio Project\\RhythmGame\\app\\src\\main\\res\\layout\\activity_login.xml"
     },
     {
         "merged": "C:\\Users\\soojin\\Desktop\\RhythmGame\\app\\build\\intermediates\\res\\merged\\debug\\layout\\choose.xml",
